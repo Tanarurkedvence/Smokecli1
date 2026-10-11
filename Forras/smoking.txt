@@ -1,0 +1,1692 @@
+Age;AmtWeekdays;AmtWeekends;EthnicityID;Ethnicity;Gender;GrossIncome;MaritalStatus;NationalityID;Nationality;Qualification;Region;Smoke;Type
+38;NA;NA;7;White;Male;2600 to 5200;Divorced;1;British;No Qualification;The North;No;
+42;12;12;7;White;Female;Under 2600;Single;1;British;No Qualification;The North;Yes;Packets
+40;NA;NA;7;White;Male;28600 to 36400;Married;2;English;Degree;The North;No;
+40;NA;NA;7;White;Female;10400 to 15600;Married;2;English;Degree;The North;No;
+39;NA;NA;7;White;Female;2600 to 5200;Married;1;British;GCSE/O Level;The North;No;
+37;NA;NA;7;White;Female;15600 to 20800;Married;1;British;GCSE/O Level;The North;No;
+53;6;6;7;White;Male;Above 36400;Married;1;British;Degree;The North;Yes;Packets
+44;NA;NA;7;White;Male;10400 to 15600;Single;2;English;Degree;The North;No;
+40;8;8;7;White;Male;2600 to 5200;Single;2;English;GCSE/CSE;The North;Yes;Hand-Rolled
+41;12;15;7;White;Female;5200 to 10400;Married;2;English;No Qualification;The North;Yes;Packets
+72;NA;NA;7;White;Male;10400 to 15600;Widowed;2;English;No Qualification;The North;No;
+49;NA;NA;7;White;Male;Refused;Married;1;British;No Qualification;The North;No;
+29;NA;NA;7;White;Male;Above 36400;Married;2;English;Degree;The North;No;
+79;NA;NA;7;White;Female;10400 to 15600;Widowed;2;English;No Qualification;The North;No;
+25;NA;NA;7;White;Male;15600 to 20800;Single;2;English;Degree;The North;No;
+27;NA;NA;7;White;Female;15600 to 20800;Single;2;English;Degree;The North;No;
+30;NA;NA;7;White;Female;20800 to 28600;Single;2;English;Degree;The North;No;
+47;NA;NA;7;White;Male;10400 to 15600;Divorced;1;British;No Qualification;The North;No;
+69;NA;NA;7;White;Female;2600 to 5200;Single;2;English;Other/Sub Degree;The North;No;
+55;NA;NA;7;White;Male;20800 to 28600;Married;2;English;No Qualification;The North;No;
+34;12;6;7;White;Female;2600 to 5200;Married;1;British;GCSE/CSE;The North;Yes;Packets
+36;2;5;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;The North;Yes;Packets
+56;20;20;7;White;Female;2600 to 5200;Married;2;English;No Qualification;The North;Yes;Packets
+71;NA;NA;7;White;Male;Unknown;Divorced;2;English;No Qualification;The North;No;
+38;NA;NA;7;White;Female;5200 to 10400;Married;2;English;No Qualification;The North;No;
+79;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;The North;No;
+58;20;25;7;White;Female;5200 to 10400;Divorced;2;English;No Qualification;The North;Yes;Packets
+69;NA;NA;7;White;Female;Under 2600;Married;1;British;No Qualification;The North;No;
+83;NA;NA;7;White;Male;2600 to 5200;Widowed;2;English;No Qualification;The North;No;
+73;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;The North;No;
+42;15;40;7;White;Female;Refused;Married;1;British;GCSE/O Level;The North;Yes;Packets
+31;15;15;7;White;Female;Under 2600;Married;2;English;GCSE/CSE;The North;Yes;Both/Mainly Packets
+26;NA;NA;7;White;Male;2600 to 5200;Single;2;English;GCSE/CSE;The North;No;
+27;NA;NA;7;White;Female;15600 to 20800;Separated;2;English;Degree;The North;No;
+57;NA;NA;7;White;Female;10400 to 15600;Married;2;English;Higher/Sub Degree;The North;No;
+30;NA;NA;7;White;Female;2600 to 5200;Married;2;English;ONC/BTEC;The North;No;
+22;NA;NA;7;White;Female;5200 to 10400;Single;2;English;A Levels;The North;No;
+78;20;20;7;White;Female;Under 2600;Widowed;2;English;No Qualification;The North;Yes;Packets
+49;NA;NA;4;Mixed;Female;15600 to 20800;Married;2;English;ONC/BTEC;The North;No;
+74;NA;NA;7;White;Male;15600 to 20800;Married;2;English;Other/Sub Degree;The North;No;
+85;NA;NA;7;White;Male;20800 to 28600;Widowed;7;Scottish;Degree;The North;No;
+75;NA;NA;7;White;Male;Refused;Married;2;English;Other/Sub Degree;The North;No;
+80;NA;NA;7;White;Female;2600 to 5200;Widowed;1;British;GCSE/O Level;The North;No;
+37;NA;NA;7;White;Female;Under 2600;Married;1;British;Degree;The North;No;
+33;NA;NA;7;White;Female;10400 to 15600;Single;1;British;Degree;The North;No;
+41;NA;NA;7;White;Male;15600 to 20800;Divorced;2;English;A Levels;The North;No;
+81;NA;NA;7;White;Female;2600 to 5200;Widowed;1;British;No Qualification;The North;No;
+76;6;6;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;The North;Yes;Packets
+58;NA;NA;7;White;Female;10400 to 15600;Married;1;British;A Levels;The North;No;
+59;25;25;7;White;Male;15600 to 20800;Married;2;English;Other/Sub Degree;The North;Yes;Packets
+40;4;4;7;White;Female;5200 to 10400;Divorced;2;English;GCSE/O Level;The North;Yes;Packets
+54;NA;NA;7;White;Female;10400 to 15600;Divorced;1;British;GCSE/O Level;The North;No;
+49;NA;NA;7;White;Male;Above 36400;Married;6;Scottish;Degree;The North;No;
+79;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;The North;No;
+28;20;20;7;White;Male;20800 to 28600;Married;1;British;Other/Sub Degree;The North;Yes;Packets
+44;NA;NA;7;White;Male;5200 to 10400;Married;2;English;Other/Sub Degree;The North;No;
+42;NA;NA;7;White;Female;10400 to 15600;Single;1;British;GCSE/CSE;The North;No;
+36;NA;NA;7;White;Female;5200 to 10400;Single;1;British;GCSE/CSE;The North;No;
+89;NA;NA;7;White;Male;5200 to 10400;Widowed;1;British;No Qualification;The North;No;
+64;NA;NA;7;White;Female;2600 to 5200;Married;1;British;No Qualification;The North;No;
+76;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;The North;No;
+76;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;The North;No;
+61;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;The North;No;
+81;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;GCSE/O Level;The North;No;
+20;10;20;7;White;Female;2600 to 5200;Single;1;British;No Qualification;The North;Yes;Packets
+82;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;The North;No;
+23;10;20;7;White;Female;5200 to 10400;Single;1;British;GCSE/O Level;The North;Yes;Packets
+41;NA;NA;7;White;Male;Above 36400;Married;2;English;GCSE/O Level;The North;No;
+31;NA;NA;7;White;Female;15600 to 20800;Single;1;British;A Levels;The North;No;
+44;0;5;7;White;Female;20800 to 28600;Married;2;English;A Levels;The North;Yes;Packets
+42;NA;NA;7;White;Female;10400 to 15600;Married;6;Scottish;Degree;The North;No;
+67;20;20;7;White;Male;5200 to 10400;Widowed;1;British;No Qualification;The North;Yes;Packets
+53;NA;NA;7;White;Male;20800 to 28600;Married;2;English;Degree;The North;No;
+76;NA;NA;2;Black;Male;10400 to 15600;Married;2;English;No Qualification;The North;No;
+40;30;30;7;White;Male;2600 to 5200;Married;2;English;Other/Sub Degree;The North;Yes;Hand-Rolled
+44;NA;NA;7;White;Male;15600 to 20800;Married;1;British;A Levels;The North;No;
+31;20;20;7;White;Female;15600 to 20800;Separated;1;British;GCSE/O Level;The North;Yes;Packets
+43;20;20;7;White;Male;2600 to 5200;Divorced;2;English;Other/Sub Degree;The North;Yes;Hand-Rolled
+36;NA;NA;7;White;Female;10400 to 15600;Separated;1;British;A Levels;The North;No;
+34;NA;NA;7;White;Female;10400 to 15600;Divorced;1;British;GCSE/O Level;The North;No;
+18;3;10;7;White;Female;2600 to 5200;Single;2;English;GCSE/O Level;The North;Yes;Packets
+56;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;The North;No;
+73;NA;NA;7;White;Female;Under 2600;Married;1;British;No Qualification;The North;No;
+22;20;20;7;White;Female;2600 to 5200;Single;2;English;GCSE/CSE;The North;Yes;Packets
+33;NA;NA;7;White;Female;15600 to 20800;Single;2;English;GCSE/CSE;The North;No;
+27;0;10;7;White;Male;15600 to 20800;Single;1;British;ONC/BTEC;The North;Yes;Packets
+33;NA;NA;7;White;Female;10400 to 15600;Married;1;British;GCSE/O Level;The North;No;
+63;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;The North;No;
+64;NA;NA;7;White;Female;2600 to 5200;Married;1;British;A Levels;The North;No;
+54;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;The North;No;
+34;NA;NA;7;White;Female;Under 2600;Married;2;English;Degree;The North;No;
+78;NA;NA;7;White;Male;10400 to 15600;Married;2;English;No Qualification;The North;No;
+54;NA;NA;7;White;Female;Under 2600;Married;1;British;No Qualification;The North;No;
+56;NA;NA;7;White;Male;28600 to 36400;Separated;2;English;GCSE/CSE;The North;No;
+78;NA;NA;7;White;Male;2600 to 5200;Widowed;2;English;No Qualification;The North;No;
+37;NA;NA;7;White;Female;5200 to 10400;Married;1;British;A Levels;The North;No;
+54;NA;NA;7;White;Male;28600 to 36400;Married;1;British;Degree;The North;No;
+40;15;15;7;White;Female;20800 to 28600;Married;1;British;GCSE/O Level;The North;Yes;Hand-Rolled
+64;NA;NA;7;White;Female;2600 to 5200;Divorced;2;English;No Qualification;The North;No;
+42;NA;NA;7;White;Female;5200 to 10400;Married;4;Other;GCSE/O Level;The North;No;
+34;NA;NA;7;White;Female;2600 to 5200;Married;1;British;Higher/Sub Degree;The North;No;
+64;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;The North;No;
+50;NA;NA;7;White;Female;15600 to 20800;Divorced;2;English;Other/Sub Degree;The North;No;
+31;NA;NA;7;White;Female;10400 to 15600;Married;2;English;ONC/BTEC;The North;No;
+37;NA;NA;7;White;Female;Above 36400;Married;2;English;Degree;The North;No;
+81;NA;NA;7;White;Male;10400 to 15600;Married;2;English;Degree;The North;No;
+57;10;10;7;White;Male;5200 to 10400;Separated;8;Welsh;No Qualification;The North;Yes;Hand-Rolled
+59;NA;NA;7;White;Female;2600 to 5200;Married;2;English;Higher/Sub Degree;The North;No;
+66;NA;NA;7;White;Male;20800 to 28600;Married;2;English;Degree;The North;No;
+57;NA;NA;7;White;Male;20800 to 28600;Married;2;English;No Qualification;The North;No;
+78;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;The North;No;
+49;NA;NA;7;White;Male;20800 to 28600;Married;2;English;Degree;The North;No;
+62;NA;NA;7;White;Female;15600 to 20800;Married;2;English;GCSE/O Level;The North;No;
+17;NA;NA;7;White;Female;2600 to 5200;Single;2;English;GCSE/CSE;The North;No;
+36;NA;NA;7;White;Female;15600 to 20800;Single;2;English;GCSE/O Level;The North;No;
+31;7;7;7;White;Female;Refused;Single;2;English;No Qualification;The North;Yes;Packets
+61;25;25;7;White;Female;15600 to 20800;Married;2;English;Higher/Sub Degree;The North;Yes;Packets
+71;40;40;7;White;Male;15600 to 20800;Widowed;2;English;No Qualification;The North;Yes;Packets
+75;12;12;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;The North;Yes;Packets
+43;NA;NA;7;White;Female;Above 36400;Married;2;English;Higher/Sub Degree;The North;No;
+68;NA;NA;7;White;Female;Refused;Widowed;2;English;No Qualification;The North;No;
+65;NA;NA;7;White;Female;15600 to 20800;Widowed;2;English;Degree;The North;No;
+85;NA;NA;7;White;Female;5200 to 10400;Widowed;1;British;No Qualification;The North;No;
+35;20;20;7;White;Female;5200 to 10400;Separated;2;English;GCSE/O Level;The North;Yes;Both/Mainly Hand-Rolled
+52;NA;NA;7;White;Female;15600 to 20800;Married;1;British;Higher/Sub Degree;The North;No;
+28;15;15;7;White;Female;5200 to 10400;Single;2;English;ONC/BTEC;The North;Yes;Packets
+52;NA;NA;7;White;Male;20800 to 28600;Single;2;English;ONC/BTEC;The North;No;
+67;25;25;7;White;Male;5200 to 10400;Widowed;3;Irish;No Qualification;The North;Yes;Hand-Rolled
+35;30;30;7;White;Female;5200 to 10400;Divorced;2;English;No Qualification;The North;Yes;Both/Mainly Hand-Rolled
+68;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;The North;No;
+34;NA;NA;7;White;Female;10400 to 15600;Married;4;Other;Higher/Sub Degree;The North;No;
+57;12;20;7;White;Female;2600 to 5200;Divorced;1;British;No Qualification;The North;Yes;Hand-Rolled
+37;8;8;7;White;Male;15600 to 20800;Married;2;English;Higher/Sub Degree;The North;Yes;Hand-Rolled
+37;15;15;7;White;Female;5200 to 10400;Divorced;2;English;No Qualification;The North;Yes;Packets
+43;15;15;7;White;Male;10400 to 15600;Divorced;1;British;No Qualification;The North;Yes;Packets
+59;NA;NA;7;White;Male;2600 to 5200;Widowed;1;British;GCSE/O Level;The North;No;
+28;NA;NA;7;White;Female;10400 to 15600;Single;6;Scottish;Degree;The North;No;
+60;NA;NA;7;White;Female;5200 to 10400;Married;2;English;No Qualification;The North;No;
+16;NA;NA;7;White;Male;Under 2600;Single;1;British;GCSE/O Level;The North;No;
+37;40;40;7;White;Male;2600 to 5200;Single;1;British;No Qualification;The North;Yes;Hand-Rolled
+34;NA;NA;7;White;Male;15600 to 20800;Married;2;English;No Qualification;The North;No;
+73;NA;NA;7;White;Female;5200 to 10400;Married;1;British;No Qualification;The North;No;
+24;NA;NA;7;White;Male;10400 to 15600;Single;2;English;GCSE/O Level;The North;No;
+36;NA;NA;7;White;Female;15600 to 20800;Single;1;British;Higher/Sub Degree;The North;No;
+39;20;20;7;White;Male;10400 to 15600;Separated;1;British;GCSE/O Level;The North;Yes;Both/Mainly Packets
+74;NA;NA;7;White;Female;Refused;Married;2;English;No Qualification;The North;No;
+32;15;15;7;White;Female;Under 2600;Married;2;English;GCSE/CSE;The North;Yes;Packets
+30;NA;NA;7;White;Female;15600 to 20800;Married;4;Other;Degree;The North;No;
+68;NA;NA;7;White;Female;15600 to 20800;Married;2;English;GCSE/O Level;The North;No;
+49;NA;NA;5;Refused;Female;Refused;Married;5;Refused;No Qualification;The North;No;
+47;NA;NA;7;White;Female;2600 to 5200;Married;2;English;Higher/Sub Degree;The North;No;
+30;30;30;7;White;Male;10400 to 15600;Single;1;British;Higher/Sub Degree;The North;Yes;Hand-Rolled
+60;8;15;7;White;Male;10400 to 15600;Divorced;2;English;No Qualification;The North;Yes;Hand-Rolled
+72;NA;NA;7;White;Male;15600 to 20800;Single;2;English;Other/Sub Degree;The North;No;
+73;NA;NA;7;White;Male;10400 to 15600;Married;2;English;Degree;The North;No;
+48;4;20;7;White;Female;10400 to 15600;Widowed;2;English;GCSE/O Level;The North;Yes;Packets
+53;NA;NA;7;White;Male;Above 36400;Divorced;2;English;Degree;The North;No;
+17;NA;NA;7;White;Male;Refused;Single;2;English;GCSE/O Level;The North;No;
+58;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;The North;No;
+34;NA;NA;7;White;Female;10400 to 15600;Married;2;English;ONC/BTEC;The North;No;
+44;NA;NA;7;White;Male;15600 to 20800;Single;1;British;GCSE/O Level;The North;No;
+23;NA;NA;7;White;Male;5200 to 10400;Single;2;English;No Qualification;The North;No;
+49;NA;NA;7;White;Male;20800 to 28600;Married;1;British;Degree;The North;No;
+30;NA;NA;7;White;Male;15600 to 20800;Married;1;British;Degree;The North;No;
+61;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;GCSE/O Level;The North;No;
+38;9;9;7;White;Male;10400 to 15600;Separated;1;British;A Levels;The North;Yes;Hand-Rolled
+30;NA;NA;7;White;Male;10400 to 15600;Single;1;British;Degree;The North;No;
+44;NA;NA;7;White;Female;15600 to 20800;Married;2;English;A Levels;The North;No;
+91;NA;NA;7;White;Male;Under 2600;Widowed;2;English;No Qualification;The North;No;
+40;NA;NA;7;White;Male;Above 36400;Divorced;1;British;GCSE/O Level;The North;No;
+63;NA;NA;7;White;Female;2600 to 5200;Married;1;British;Degree;The North;No;
+61;30;30;7;White;Female;2600 to 5200;Divorced;1;British;No Qualification;The North;Yes;Packets
+40;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Higher/Sub Degree;The North;No;
+57;15;15;7;White;Female;Under 2600;Married;1;British;No Qualification;The North;Yes;Both/Mainly Packets
+41;NA;NA;7;White;Female;28600 to 36400;Married;1;British;Degree;The North;No;
+32;5;7;7;White;Female;2600 to 5200;Single;2;English;No Qualification;The North;Yes;Hand-Rolled
+76;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;The North;No;
+35;2;2;7;White;Female;10400 to 15600;Divorced;2;English;GCSE/O Level;The North;Yes;Packets
+70;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;The North;No;
+75;NA;NA;7;White;Female;5200 to 10400;Widowed;1;British;No Qualification;The North;No;
+74;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;The North;No;
+49;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;The North;No;
+56;NA;NA;7;White;Female;Under 2600;Married;1;British;GCSE/O Level;The North;No;
+60;NA;NA;7;White;Male;15600 to 20800;Married;2;English;Degree;The North;No;
+72;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;The North;No;
+17;NA;NA;7;White;Male;5200 to 10400;Single;2;English;GCSE/O Level;The North;No;
+23;NA;NA;7;White;Female;20800 to 28600;Single;2;English;Degree;The North;No;
+79;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;The North;No;
+65;NA;NA;7;White;Female;2600 to 5200;Separated;1;British;No Qualification;The North;No;
+57;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Degree;The North;No;
+37;NA;NA;7;White;Female;15600 to 20800;Married;1;British;GCSE/O Level;The North;No;
+79;NA;NA;7;White;Male;5200 to 10400;Single;2;English;No Qualification;The North;No;
+71;NA;NA;7;White;Female;2600 to 5200;Single;2;English;No Qualification;The North;No;
+87;NA;NA;5;Refused;Female;Unknown;Widowed;5;Refused;No Qualification;The North;No;
+59;40;40;7;White;Male;28600 to 36400;Married;2;English;Degree;The North;Yes;Packets
+21;8;20;7;White;Male;10400 to 15600;Single;2;English;ONC/BTEC;The North;Yes;Packets
+66;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;The North;No;
+58;NA;NA;7;White;Male;28600 to 36400;Married;8;Welsh;Higher/Sub Degree;The North;No;
+38;15;30;7;White;Male;Above 36400;Married;2;English;GCSE/O Level;The North;Yes;Both/Mainly Packets
+61;NA;NA;7;White;Male;15600 to 20800;Widowed;6;Scottish;Other/Sub Degree;The North;No;
+37;NA;NA;7;White;Male;Above 36400;Separated;2;English;Degree;The North;No;
+38;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;The North;No;
+34;NA;NA;7;White;Male;28600 to 36400;Married;2;English;Degree;The North;No;
+34;NA;NA;7;White;Female;10400 to 15600;Married;1;British;Higher/Sub Degree;The North;No;
+20;NA;NA;7;White;Female;2600 to 5200;Single;2;English;GCSE/O Level;The North;No;
+77;20;20;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;The North;Yes;Packets
+31;15;20;7;White;Female;2600 to 5200;Single;2;English;GCSE/O Level;The North;Yes;Hand-Rolled
+28;2;2;7;White;Male;2600 to 5200;Single;2;English;No Qualification;The North;Yes;Packets
+36;NA;NA;7;White;Female;5200 to 10400;Married;1;British;GCSE/CSE;The North;No;
+16;12;12;7;White;Female;5200 to 10400;Single;1;British;GCSE/O Level;The North;Yes;Packets
+42;NA;NA;7;White;Male;5200 to 10400;Married;2;English;GCSE/O Level;The North;No;
+47;NA;NA;7;White;Female;Under 2600;Married;2;English;Higher/Sub Degree;The North;No;
+42;NA;NA;7;White;Male;28600 to 36400;Married;1;British;GCSE/CSE;The North;No;
+67;NA;NA;7;White;Female;2600 to 5200;Widowed;1;British;No Qualification;The North;No;
+72;NA;NA;7;White;Female;5200 to 10400;Single;2;English;No Qualification;The North;No;
+40;30;25;7;White;Male;10400 to 15600;Divorced;2;English;GCSE/O Level;The North;Yes;Packets
+34;NA;NA;7;White;Female;Above 36400;Single;2;English;Degree;The North;No;
+75;NA;NA;7;White;Male;15600 to 20800;Married;2;English;No Qualification;The North;No;
+35;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;The North;No;
+40;10;10;7;White;Female;5200 to 10400;Separated;1;British;No Qualification;The North;Yes;Packets
+46;NA;NA;7;White;Female;15600 to 20800;Married;1;British;No Qualification;The North;No;
+23;NA;NA;7;White;Male;15600 to 20800;Married;2;English;GCSE/O Level;The North;No;
+42;NA;NA;7;White;Male;10400 to 15600;Married;1;British;GCSE/O Level;The North;No;
+63;NA;NA;7;White;Male;2600 to 5200;Married;2;English;No Qualification;The North;No;
+33;NA;NA;7;White;Female;5200 to 10400;Married;1;British;A Levels;The North;No;
+31;NA;NA;7;White;Female;15600 to 20800;Married;2;English;GCSE/O Level;The North;No;
+54;NA;NA;7;White;Male;5200 to 10400;Single;2;English;No Qualification;The North;No;
+33;NA;NA;7;White;Female;15600 to 20800;Single;1;British;ONC/BTEC;The North;No;
+24;8;12;7;White;Female;15600 to 20800;Single;2;English;Degree;The North;Yes;Hand-Rolled
+80;NA;NA;7;White;Female;5200 to 10400;Widowed;1;British;No Qualification;The North;No;
+77;NA;NA;7;White;Female;2600 to 5200;Single;2;English;No Qualification;The North;No;
+51;NA;NA;7;White;Male;10400 to 15600;Married;2;English;No Qualification;The North;No;
+16;NA;NA;7;White;Male;Refused;Single;2;English;GCSE/O Level;The North;No;
+27;15;15;7;White;Male;Refused;Single;2;English;ONC/BTEC;The North;Yes;Packets
+75;NA;NA;7;White;Female;2600 to 5200;Single;2;English;No Qualification;The North;No;
+24;NA;NA;7;White;Female;5200 to 10400;Single;4;Other;Degree;The North;No;
+78;50;50;7;White;Male;5200 to 10400;Widowed;2;English;No Qualification;The North;Yes;Both/Mainly Packets
+20;NA;NA;7;White;Female;5200 to 10400;Single;1;British;GCSE/O Level;The North;No;
+18;NA;NA;7;White;Male;5200 to 10400;Single;2;English;GCSE/CSE;The North;No;
+25;NA;NA;7;White;Female;10400 to 15600;Separated;2;English;ONC/BTEC;The North;No;
+55;7;10;4;Mixed;Female;5200 to 10400;Separated;2;English;No Qualification;The North;Yes;Both/Mainly Hand-Rolled
+29;5;10;7;White;Female;10400 to 15600;Married;2;English;Higher/Sub Degree;The North;Yes;Packets
+67;NA;NA;7;White;Female;5200 to 10400;Divorced;2;English;No Qualification;The North;No;
+79;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;The North;No;
+44;NA;NA;7;White;Male;20800 to 28600;Single;1;British;No Qualification;The North;No;
+47;NA;NA;7;White;Male;20800 to 28600;Married;1;British;Degree;The North;No;
+41;NA;NA;7;White;Female;10400 to 15600;Divorced;1;British;GCSE/O Level;The North;No;
+31;0;5;7;White;Female;10400 to 15600;Married;1;British;GCSE/O Level;The North;Yes;Packets
+32;NA;NA;7;White;Male;10400 to 15600;Married;6;Scottish;Other/Sub Degree;The North;No;
+68;NA;NA;7;White;Female;Refused;Widowed;2;English;No Qualification;The North;No;
+84;NA;NA;7;White;Female;Under 2600;Widowed;1;British;No Qualification;The North;No;
+67;NA;NA;7;White;Male;10400 to 15600;Married;2;English;No Qualification;The North;No;
+49;NA;NA;7;White;Male;10400 to 15600;Married;1;British;No Qualification;The North;No;
+69;8;6;7;White;Male;5200 to 10400;Married;2;English;No Qualification;The North;Yes;Hand-Rolled
+64;18;16;7;White;Male;28600 to 36400;Married;2;English;Higher/Sub Degree;The North;Yes;Packets
+62;NA;NA;7;White;Male;20800 to 28600;Married;2;English;No Qualification;The North;No;
+52;NA;NA;7;White;Male;5200 to 10400;Divorced;1;British;No Qualification;The North;No;
+45;NA;NA;7;White;Male;28600 to 36400;Married;2;English;ONC/BTEC;The North;No;
+28;15;15;7;White;Female;10400 to 15600;Divorced;2;English;No Qualification;The North;Yes;Packets
+36;NA;NA;7;White;Female;10400 to 15600;Single;2;English;GCSE/O Level;The North;No;
+73;NA;NA;7;White;Female;5200 to 10400;Divorced;2;English;No Qualification;The North;No;
+48;NA;NA;7;White;Male;10400 to 15600;Widowed;2;English;No Qualification;The North;No;
+67;10;10;7;White;Male;10400 to 15600;Widowed;1;British;No Qualification;The North;Yes;Both/Mainly Hand-Rolled
+38;NA;NA;7;White;Female;20800 to 28600;Divorced;1;British;GCSE/O Level;The North;No;
+40;0;5;7;White;Female;10400 to 15600;Divorced;2;English;GCSE/CSE;The North;Yes;Packets
+43;NA;NA;7;White;Male;15600 to 20800;Single;1;British;Other/Sub Degree;The North;No;
+30;NA;NA;7;White;Female;10400 to 15600;Single;2;English;Degree;The North;No;
+70;NA;NA;7;White;Female;5200 to 10400;Widowed;1;British;No Qualification;The North;No;
+82;NA;NA;7;White;Female;5200 to 10400;Widowed;1;British;No Qualification;The North;No;
+78;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;The North;No;
+21;10;20;7;White;Male;Under 2600;Single;2;English;GCSE/O Level;The North;Yes;Packets
+67;NA;NA;7;White;Male;15600 to 20800;Widowed;2;English;No Qualification;The North;No;
+16;NA;NA;7;White;Male;Refused;Single;2;English;GCSE/O Level;The North;No;
+21;15;40;7;White;Female;5200 to 10400;Single;2;English;GCSE/CSE;The North;Yes;Packets
+68;8;8;7;White;Male;5200 to 10400;Separated;2;English;No Qualification;The North;Yes;Packets
+41;10;20;7;White;Male;2600 to 5200;Married;1;British;No Qualification;The North;Yes;Packets
+33;NA;NA;7;White;Male;15600 to 20800;Single;1;British;GCSE/O Level;The North;No;
+28;NA;NA;7;White;Female;Under 2600;Married;1;British;No Qualification;The North;No;
+75;5;5;7;White;Female;2600 to 5200;Married;1;British;No Qualification;The North;Yes;Packets
+21;10;5;7;White;Female;5200 to 10400;Single;2;English;Other/Sub Degree;The North;Yes;Packets
+69;NA;NA;7;White;Female;2600 to 5200;Divorced;2;English;GCSE/CSE;The North;No;
+38;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;The North;No;
+33;4;10;7;White;Female;5200 to 10400;Single;2;English;GCSE/O Level;The North;Yes;Packets
+47;NA;NA;7;White;Female;5200 to 10400;Married;2;English;No Qualification;The North;No;
+44;35;35;7;White;Female;2600 to 5200;Single;2;English;GCSE/CSE;The North;Yes;Hand-Rolled
+74;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;The North;No;
+29;NA;NA;7;White;Female;Under 2600;Married;2;English;GCSE/O Level;The North;No;
+23;NA;NA;1;Asian;Female;Under 2600;Married;4;Other;A Levels;The North;No;
+72;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;The North;No;
+31;8;10;1;Asian;Female;5200 to 10400;Widowed;2;English;No Qualification;The North;Yes;Packets
+48;NA;NA;1;Asian;Female;Under 2600;Married;1;British;No Qualification;The North;No;
+29;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;The North;No;
+72;NA;NA;2;Black;Male;5200 to 10400;Married;2;English;Other/Sub Degree;The North;No;
+52;NA;NA;7;White;Female;Unknown;Married;2;English;No Qualification;The North;No;
+68;NA;NA;7;White;Female;5200 to 10400;Single;2;English;Degree;The North;No;
+48;40;40;3;Chinese;Male;15600 to 20800;Married;1;British;Other/Sub Degree;The North;Yes;Both/Mainly Packets
+55;NA;NA;7;White;Female;10400 to 15600;Married;2;English;GCSE/O Level;The North;No;
+23;7;7;7;White;Female;10400 to 15600;Married;1;British;ONC/BTEC;The North;Yes;Packets
+66;NA;NA;7;White;Female;2600 to 5200;Widowed;1;British;No Qualification;The North;No;
+33;NA;NA;7;White;Female;15600 to 20800;Single;1;British;ONC/BTEC;The North;No;
+37;10;10;7;White;Female;Under 2600;Married;1;British;GCSE/CSE;The North;Yes;Packets
+42;NA;NA;7;White;Male;20800 to 28600;Married;2;English;Degree;The North;No;
+46;20;20;7;White;Female;10400 to 15600;Married;1;British;No Qualification;The North;Yes;Hand-Rolled
+57;NA;NA;7;White;Male;28600 to 36400;Married;2;English;Other/Sub Degree;The North;No;
+36;NA;NA;7;White;Female;Under 2600;Married;2;English;GCSE/O Level;The North;No;
+51;NA;NA;7;White;Female;20800 to 28600;Married;6;Scottish;GCSE/O Level;The North;No;
+18;8;8;7;White;Female;Refused;Single;1;British;GCSE/O Level;The North;Yes;Hand-Rolled
+69;NA;NA;7;White;Female;Under 2600;Married;2;English;GCSE/O Level;The North;No;
+30;NA;NA;7;White;Male;15600 to 20800;Single;2;English;Degree;The North;No;
+51;NA;NA;7;White;Male;28600 to 36400;Married;2;English;Higher/Sub Degree;The North;No;
+63;NA;NA;1;Asian;Female;5200 to 10400;Married;1;British;No Qualification;The North;No;
+31;NA;NA;7;White;Female;28600 to 36400;Single;2;English;Degree;The North;No;
+58;NA;NA;7;White;Male;10400 to 15600;Single;1;British;No Qualification;The North;No;
+50;15;15;7;White;Male;20800 to 28600;Married;2;English;GCSE/CSE;The North;Yes;Packets
+67;20;20;7;White;Female;2600 to 5200;Divorced;2;English;No Qualification;The North;Yes;Hand-Rolled
+20;NA;NA;7;White;Male;Refused;Single;2;English;A Levels;The North;No;
+45;NA;NA;7;White;Female;15600 to 20800;Single;1;British;Degree;The North;No;
+26;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;The North;No;
+30;NA;NA;7;White;Male;28600 to 36400;Single;1;British;Degree;The North;No;
+43;NA;NA;7;White;Female;Refused;Married;4;Other;Degree;The North;No;
+73;NA;NA;7;White;Male;2600 to 5200;Widowed;2;English;Other/Sub Degree;The North;No;
+52;NA;NA;7;White;Female;Under 2600;Married;1;British;Higher/Sub Degree;The North;No;
+18;10;15;7;White;Male;10400 to 15600;Single;1;British;No Qualification;The North;Yes;Both/Mainly Hand-Rolled
+52;NA;NA;7;White;Male;28600 to 36400;Married;2;English;No Qualification;The North;No;
+33;NA;NA;7;White;Male;15600 to 20800;Divorced;2;English;GCSE/O Level;The North;No;
+56;NA;NA;7;White;Female;15600 to 20800;Divorced;2;English;GCSE/O Level;The North;No;
+65;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;The North;No;
+30;NA;NA;7;White;Female;2600 to 5200;Single;1;British;No Qualification;The North;No;
+40;1;10;7;White;Female;5200 to 10400;Married;1;British;No Qualification;The North;Yes;Both/Mainly Hand-Rolled
+26;20;20;7;White;Female;5200 to 10400;Single;2;English;GCSE/CSE;The North;Yes;Packets
+74;NA;NA;5;Refused;Male;Refused;Single;5;Refused;No Qualification;The North;No;
+44;NA;NA;7;White;Female;28600 to 36400;Married;8;Welsh;Degree;The North;No;
+80;NA;NA;7;White;Female;2600 to 5200;Widowed;1;British;No Qualification;The North;No;
+67;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;The North;No;
+59;NA;NA;7;White;Female;Refused;Married;1;British;No Qualification;The North;No;
+28;10;15;7;White;Female;5200 to 10400;Single;2;English;Higher/Sub Degree;The North;Yes;Packets
+31;NA;NA;7;White;Female;15600 to 20800;Married;1;British;ONC/BTEC;The North;No;
+25;NA;NA;7;White;Male;15600 to 20800;Single;2;English;GCSE/CSE;The North;No;
+64;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;The North;No;
+68;NA;NA;7;White;Male;2600 to 5200;Married;2;English;Other/Sub Degree;The North;No;
+61;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;The North;No;
+50;NA;NA;7;White;Female;10400 to 15600;Divorced;2;English;No Qualification;The North;No;
+43;NA;NA;3;Chinese;Male;Above 36400;Married;1;British;Higher/Sub Degree;The North;No;
+19;NA;NA;1;Asian;Female;Under 2600;Single;4;Other;No Qualification;The North;No;
+21;NA;NA;1;Asian;Female;Under 2600;Married;4;Other;GCSE/O Level;The North;No;
+51;NA;NA;7;White;Male;2600 to 5200;Divorced;2;English;Degree;The North;No;
+65;NA;NA;7;White;Male;5200 to 10400;Single;1;British;Other/Sub Degree;The North;No;
+50;NA;NA;1;Asian;Female;2600 to 5200;Separated;4;Other;No Qualification;The North;No;
+38;NA;NA;7;White;Female;2600 to 5200;Single;2;English;Other/Sub Degree;The North;No;
+78;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;The North;No;
+74;NA;NA;1;Asian;Male;2600 to 5200;Widowed;4;Other;No Qualification;The North;No;
+22;NA;NA;1;Asian;Female;2600 to 5200;Single;4;Other;Degree;The North;No;
+66;NA;NA;7;White;Male;5200 to 10400;Married;1;British;No Qualification;The North;No;
+48;NA;NA;7;White;Female;2600 to 5200;Single;2;English;No Qualification;The North;No;
+59;NA;NA;7;White;Female;5200 to 10400;Married;2;English;No Qualification;The North;No;
+69;NA;NA;7;White;Female;Unknown;Widowed;2;English;No Qualification;The North;No;
+76;20;20;7;White;Female;5200 to 10400;Widowed;1;British;No Qualification;The North;Yes;Packets
+21;NA;NA;7;White;Female;2600 to 5200;Single;1;British;ONC/BTEC;The North;No;
+47;NA;NA;7;White;Female;10400 to 15600;Married;1;British;GCSE/O Level;The North;No;
+77;NA;NA;7;White;Female;2600 to 5200;Widowed;1;British;No Qualification;The North;No;
+25;10;10;7;White;Female;10400 to 15600;Single;2;English;GCSE/O Level;The North;Yes;Packets
+71;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;The North;No;
+24;10;10;7;White;Female;2600 to 5200;Single;1;British;GCSE/O Level;The North;Yes;Packets
+90;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;The North;No;
+41;10;10;7;White;Female;5200 to 10400;Divorced;1;British;GCSE/O Level;The North;Yes;Packets
+69;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;The North;No;
+35;NA;NA;7;White;Female;15600 to 20800;Married;1;British;GCSE/O Level;The North;No;
+32;7;12;7;White;Female;5200 to 10400;Single;2;English;No Qualification;The North;Yes;Packets
+48;NA;NA;7;White;Female;15600 to 20800;Single;1;British;GCSE/O Level;The North;No;
+34;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;The North;No;
+28;4;10;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;The North;Yes;Packets
+66;NA;NA;7;White;Male;Unknown;Married;2;English;No Qualification;The North;No;
+56;NA;NA;7;White;Male;20800 to 28600;Married;2;English;GCSE/CSE;The North;No;
+51;NA;NA;7;White;Male;10400 to 15600;Married;1;British;Other/Sub Degree;The North;No;
+63;NA;NA;7;White;Female;2600 to 5200;Married;1;British;No Qualification;The North;No;
+44;NA;NA;7;White;Male;28600 to 36400;Married;2;English;Degree;The North;No;
+45;NA;NA;7;White;Female;10400 to 15600;Married;1;British;Higher/Sub Degree;The North;No;
+55;20;20;7;White;Male;10400 to 15600;Married;1;British;No Qualification;The North;Yes;Packets
+55;NA;NA;7;White;Female;5200 to 10400;Married;2;English;No Qualification;The North;No;
+55;NA;NA;7;White;Female;Refused;Married;6;Scottish;A Levels;The North;No;
+57;NA;NA;7;White;Female;2600 to 5200;Married;1;British;GCSE/O Level;The North;No;
+76;NA;NA;7;White;Male;5200 to 10400;Married;6;Scottish;A Levels;The North;No;
+59;NA;NA;7;White;Female;5200 to 10400;Married;1;British;No Qualification;The North;No;
+46;NA;NA;7;White;Female;5200 to 10400;Married;1;British;No Qualification;The North;No;
+56;NA;NA;7;White;Female;Under 2600;Married;1;British;No Qualification;The North;No;
+67;NA;NA;7;White;Male;5200 to 10400;Married;1;British;No Qualification;The North;No;
+73;NA;NA;7;White;Female;10400 to 15600;Single;2;English;Other/Sub Degree;The North;No;
+82;NA;NA;7;White;Female;Refused;Widowed;2;English;No Qualification;The North;No;
+75;NA;NA;7;White;Male;Refused;Married;2;English;ONC/BTEC;The North;No;
+41;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Other/Sub Degree;The North;No;
+40;NA;NA;7;White;Female;15600 to 20800;Married;1;British;A Levels;The North;No;
+37;NA;NA;7;White;Male;15600 to 20800;Married;2;English;GCSE/O Level;The North;No;
+53;NA;NA;7;White;Male;20800 to 28600;Married;2;English;ONC/BTEC;The North;No;
+35;NA;NA;7;White;Female;5200 to 10400;Married;2;English;No Qualification;The North;No;
+39;NA;NA;7;White;Female;20800 to 28600;Married;2;English;GCSE/O Level;The North;No;
+31;NA;NA;7;White;Female;2600 to 5200;Separated;2;English;Other/Sub Degree;The North;No;
+38;NA;NA;7;White;Male;Above 36400;Married;1;British;ONC/BTEC;The North;No;
+34;10;25;7;White;Female;10400 to 15600;Divorced;1;British;GCSE/O Level;The North;Yes;Packets
+36;20;20;7;White;Female;10400 to 15600;Married;2;English;A Levels;The North;Yes;Packets
+31;NA;NA;7;White;Male;20800 to 28600;Single;2;English;Degree;The North;No;
+31;10;10;7;White;Female;Under 2600;Single;1;British;GCSE/CSE;The North;Yes;Hand-Rolled
+35;NA;NA;7;White;Male;20800 to 28600;Married;2;English;Degree;The North;No;
+42;NA;NA;7;White;Male;20800 to 28600;Married;1;British;No Qualification;The North;No;
+30;NA;NA;7;White;Male;15600 to 20800;Single;2;English;GCSE/CSE;The North;No;
+39;NA;NA;7;White;Female;10400 to 15600;Divorced;1;British;GCSE/O Level;The North;No;
+47;NA;NA;7;White;Female;10400 to 15600;Married;6;Scottish;GCSE/O Level;The North;No;
+38;NA;NA;7;White;Male;20800 to 28600;Married;2;English;Higher/Sub Degree;The North;No;
+29;NA;NA;7;White;Female;15600 to 20800;Divorced;2;English;A Levels;The North;No;
+75;NA;NA;7;White;Male;5200 to 10400;Widowed;1;British;No Qualification;The North;No;
+47;NA;NA;7;White;Female;Refused;Married;1;British;Higher/Sub Degree;The North;No;
+55;NA;NA;7;White;Male;15600 to 20800;Married;2;English;No Qualification;The North;No;
+42;NA;NA;7;White;Male;Above 36400;Married;4;Other;Higher/Sub Degree;The North;No;
+39;NA;NA;7;White;Female;Above 36400;Married;2;English;Degree;The North;No;
+64;NA;NA;7;White;Male;5200 to 10400;Married;2;English;GCSE/O Level;The North;No;
+84;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;The North;No;
+49;NA;NA;7;White;Female;5200 to 10400;Married;1;British;Higher/Sub Degree;The North;No;
+24;NA;NA;7;White;Male;10400 to 15600;Single;2;English;Higher/Sub Degree;The North;No;
+38;30;30;7;White;Male;10400 to 15600;Single;6;Scottish;GCSE/O Level;The North;Yes;Hand-Rolled
+45;NA;NA;7;White;Female;15600 to 20800;Married;4;Other;Degree;The North;No;
+47;NA;NA;7;White;Female;5200 to 10400;Divorced;1;British;GCSE/O Level;The North;No;
+37;NA;NA;7;White;Male;28600 to 36400;Divorced;2;English;Higher/Sub Degree;The North;No;
+59;NA;NA;7;White;Male;5200 to 10400;Married;2;English;Higher/Sub Degree;The North;No;
+25;NA;NA;7;White;Male;28600 to 36400;Single;4;Other;Degree;The North;No;
+56;NA;NA;7;White;Male;15600 to 20800;Married;2;English;No Qualification;The North;No;
+71;NA;NA;7;White;Female;2600 to 5200;Divorced;1;British;GCSE/CSE;The North;No;
+81;NA;NA;7;White;Male;10400 to 15600;Widowed;2;English;Higher/Sub Degree;The North;No;
+55;NA;NA;7;White;Male;15600 to 20800;Married;2;English;A Levels;Midlands & East Anglia;No;
+42;NA;NA;7;White;Male;Above 36400;Married;2;English;GCSE/CSE;Midlands & East Anglia;No;
+73;NA;NA;7;White;Male;2600 to 5200;Married;2;English;No Qualification;Midlands & East Anglia;No;
+43;NA;NA;7;White;Male;28600 to 36400;Married;2;English;A Levels;Midlands & East Anglia;No;
+57;10;15;7;White;Female;10400 to 15600;Divorced;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+47;NA;NA;7;White;Female;Above 36400;Married;2;English;Degree;Midlands & East Anglia;No;
+29;15;15;7;White;Female;10400 to 15600;Married;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+30;NA;NA;7;White;Female;10400 to 15600;Widowed;1;British;GCSE/CSE;Midlands & East Anglia;No;
+58;25;30;7;White;Male;15600 to 20800;Married;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+58;NA;NA;7;White;Female;28600 to 36400;Married;2;English;Degree;Midlands & East Anglia;No;
+70;NA;NA;7;White;Male;5200 to 10400;Widowed;1;British;No Qualification;Midlands & East Anglia;No;
+18;NA;NA;7;White;Male;Refused;Single;1;British;A Levels;Midlands & East Anglia;No;
+45;NA;NA;7;White;Female;2600 to 5200;Single;1;British;No Qualification;Midlands & East Anglia;No;
+37;10;15;7;White;Male;15600 to 20800;Single;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Both/Mainly Packets
+44;NA;NA;7;White;Female;10400 to 15600;Separated;1;British;GCSE/O Level;Midlands & East Anglia;No;
+46;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;Midlands & East Anglia;No;
+29;NA;NA;7;White;Male;20800 to 28600;Married;1;British;Degree;Midlands & East Anglia;No;
+50;NA;NA;7;White;Male;Above 36400;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+51;NA;NA;7;White;Female;2600 to 5200;Married;1;British;No Qualification;Midlands & East Anglia;No;
+80;NA;NA;7;White;Male;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+85;NA;NA;7;White;Female;5200 to 10400;Married;2;English;A Levels;Midlands & East Anglia;No;
+49;NA;NA;7;White;Female;Under 2600;Married;1;British;No Qualification;Midlands & East Anglia;No;
+52;NA;NA;7;White;Male;20800 to 28600;Married;1;British;No Qualification;Midlands & East Anglia;No;
+58;NA;NA;7;White;Female;5200 to 10400;Married;2;English;No Qualification;Midlands & East Anglia;No;
+49;NA;NA;7;White;Female;2600 to 5200;Married;1;British;Degree;Midlands & East Anglia;No;
+39;NA;NA;7;White;Male;28600 to 36400;Single;1;British;Degree;Midlands & East Anglia;No;
+53;15;15;7;White;Female;5200 to 10400;Married;1;British;Degree;Midlands & East Anglia;Yes;Both/Mainly Hand-Rolled
+71;NA;NA;7;White;Female;10400 to 15600;Married;1;British;GCSE/O Level;Midlands & East Anglia;No;
+29;NA;NA;7;White;Male;15600 to 20800;Single;1;British;Higher/Sub Degree;Midlands & East Anglia;No;
+66;NA;NA;7;White;Female;15600 to 20800;Married;1;British;No Qualification;Midlands & East Anglia;No;
+75;NA;NA;7;White;Male;20800 to 28600;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+45;NA;NA;7;White;Female;28600 to 36400;Divorced;1;British;Degree;Midlands & East Anglia;No;
+69;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+49;NA;NA;7;White;Female;15600 to 20800;Divorced;1;British;Degree;Midlands & East Anglia;No;
+63;NA;NA;7;White;Male;15600 to 20800;Married;2;English;No Qualification;Midlands & East Anglia;No;
+61;NA;NA;7;White;Male;5200 to 10400;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+55;NA;NA;7;White;Female;2600 to 5200;Married;2;English;Higher/Sub Degree;Midlands & East Anglia;No;
+57;NA;NA;7;White;Male;10400 to 15600;Married;1;British;Higher/Sub Degree;Midlands & East Anglia;No;
+60;NA;NA;7;White;Female;2600 to 5200;Married;2;English;Degree;Midlands & East Anglia;No;
+58;NA;NA;7;White;Male;20800 to 28600;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+76;6;10;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+29;20;20;7;White;Male;20800 to 28600;Single;1;British;Higher/Sub Degree;Midlands & East Anglia;Yes;Packets
+50;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+40;NA;NA;7;White;Male;Refused;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+34;NA;NA;7;White;Female;5200 to 10400;Married;1;British;Higher/Sub Degree;Midlands & East Anglia;No;
+77;NA;NA;7;White;Female;2600 to 5200;Widowed;3;Irish;No Qualification;Midlands & East Anglia;No;
+47;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;Midlands & East Anglia;No;
+68;NA;NA;7;White;Female;Under 2600;Married;1;British;No Qualification;Midlands & East Anglia;No;
+31;NA;NA;7;White;Male;Above 36400;Married;2;English;Higher/Sub Degree;Midlands & East Anglia;No;
+41;NA;NA;1;Asian;Male;20800 to 28600;Married;1;British;Degree;Midlands & East Anglia;No;
+55;15;25;7;White;Female;5200 to 10400;Married;1;British;Higher/Sub Degree;Midlands & East Anglia;Yes;Packets
+66;NA;NA;1;Asian;Male;5200 to 10400;Married;1;British;A Levels;Midlands & East Anglia;No;
+80;NA;NA;7;White;Female;Under 2600;Married;1;British;No Qualification;Midlands & East Anglia;No;
+45;NA;NA;1;Asian;Female;2600 to 5200;Married;1;British;Degree;Midlands & East Anglia;No;
+63;NA;NA;7;White;Male;Above 36400;Married;2;English;Degree;Midlands & East Anglia;No;
+62;NA;NA;7;White;Male;20800 to 28600;Married;6;Scottish;Degree;Midlands & East Anglia;No;
+49;NA;NA;7;White;Female;10400 to 15600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+33;NA;NA;7;White;Male;10400 to 15600;Married;2;English;ONC/BTEC;Midlands & East Anglia;No;
+16;NA;NA;7;White;Female;Refused;Single;2;English;GCSE/O Level;Midlands & East Anglia;No;
+58;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;Midlands & East Anglia;No;
+33;NA;NA;7;White;Female;5200 to 10400;Separated;2;English;ONC/BTEC;Midlands & East Anglia;No;
+65;NA;NA;7;White;Male;28600 to 36400;Married;1;British;Degree;Midlands & East Anglia;No;
+39;NA;NA;7;White;Female;20800 to 28600;Single;3;Irish;Degree;Midlands & East Anglia;No;
+57;4;6;7;White;Female;15600 to 20800;Married;1;British;Higher/Sub Degree;Midlands & East Anglia;Yes;Packets
+31;NA;NA;7;White;Female;2600 to 5200;Married;1;British;A Levels;Midlands & East Anglia;No;
+79;NA;NA;7;White;Male;10400 to 15600;Married;1;British;No Qualification;Midlands & East Anglia;No;
+16;2;2;7;White;Female;Under 2600;Single;1;British;GCSE/CSE;Midlands & East Anglia;Yes;Packets
+54;NA;NA;7;White;Female;10400 to 15600;Married;1;British;No Qualification;Midlands & East Anglia;No;
+37;12;12;7;White;Female;10400 to 15600;Divorced;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Packets
+87;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+32;NA;NA;7;White;Male;2600 to 5200;Single;2;English;Degree;Midlands & East Anglia;No;
+72;NA;NA;7;White;Male;5200 to 10400;Married;1;British;No Qualification;Midlands & East Anglia;No;
+20;15;30;4;Mixed;Male;10400 to 15600;Married;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Hand-Rolled
+77;NA;NA;7;White;Male;2600 to 5200;Married;2;English;No Qualification;Midlands & East Anglia;No;
+63;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+56;NA;NA;7;White;Male;10400 to 15600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+34;5;10;7;White;Male;15600 to 20800;Single;1;British;GCSE/O Level;Midlands & East Anglia;Yes;Hand-Rolled
+24;NA;NA;7;White;Female;20800 to 28600;Married;2;English;A Levels;Midlands & East Anglia;No;
+42;3;10;7;White;Female;15600 to 20800;Single;1;British;GCSE/O Level;Midlands & East Anglia;Yes;Hand-Rolled
+71;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;Midlands & East Anglia;No;
+48;NA;NA;7;White;Female;15600 to 20800;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+38;NA;NA;7;White;Male;28600 to 36400;Separated;1;British;ONC/BTEC;Midlands & East Anglia;No;
+55;NA;NA;7;White;Female;Under 2600;Divorced;2;English;A Levels;Midlands & East Anglia;No;
+50;NA;NA;7;White;Male;20800 to 28600;Married;2;English;GCSE/CSE;Midlands & East Anglia;No;
+30;NA;NA;7;White;Male;20800 to 28600;Single;2;English;ONC/BTEC;Midlands & East Anglia;No;
+72;NA;NA;7;White;Female;10400 to 15600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+59;NA;NA;7;White;Male;15600 to 20800;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+68;NA;NA;7;White;Female;15600 to 20800;Married;2;English;Higher/Sub Degree;Midlands & East Anglia;No;
+48;NA;NA;7;White;Male;20800 to 28600;Married;1;British;No Qualification;Midlands & East Anglia;No;
+42;NA;NA;7;White;Male;15600 to 20800;Widowed;2;English;GCSE/O Level;Midlands & East Anglia;No;
+72;NA;NA;7;White;Female;2600 to 5200;Divorced;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+54;NA;NA;7;White;Male;Refused;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+53;12;7;7;White;Female;Unknown;Divorced;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Packets
+86;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+57;15;20;7;White;Female;5200 to 10400;Divorced;2;English;No Qualification;Midlands & East Anglia;Yes;Both/Mainly Packets
+30;NA;NA;3;Chinese;Female;15600 to 20800;Single;1;British;Degree;Midlands & East Anglia;No;
+35;20;20;7;White;Male;Refused;Single;4;Other;No Qualification;Midlands & East Anglia;Yes;Hand-Rolled
+25;20;20;7;White;Female;10400 to 15600;Separated;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Packets
+67;NA;NA;7;White;Male;5200 to 10400;Married;1;British;Other/Sub Degree;Midlands & East Anglia;No;
+33;NA;NA;7;White;Female;28600 to 36400;Divorced;2;English;GCSE/O Level;Midlands & East Anglia;No;
+51;3;15;7;White;Female;5200 to 10400;Married;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+54;NA;NA;7;White;Female;20800 to 28600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+86;NA;NA;7;White;Male;Unknown;Married;2;English;No Qualification;Midlands & East Anglia;No;
+69;NA;NA;7;White;Female;Under 2600;Married;1;British;No Qualification;Midlands & East Anglia;No;
+23;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Higher/Sub Degree;Midlands & East Anglia;No;
+33;12;18;7;White;Female;15600 to 20800;Single;2;English;Degree;Midlands & East Anglia;Yes;Packets
+79;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;Midlands & East Anglia;No;
+21;NA;NA;7;White;Male;5200 to 10400;Single;2;English;A Levels;Midlands & East Anglia;No;
+37;NA;NA;7;White;Female;2600 to 5200;Divorced;1;British;GCSE/O Level;Midlands & East Anglia;No;
+40;20;20;7;White;Male;5200 to 10400;Married;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Both/Mainly Packets
+79;NA;NA;7;White;Male;Refused;Single;2;English;No Qualification;Midlands & East Anglia;No;
+34;10;10;7;White;Female;5200 to 10400;Divorced;2;English;Higher/Sub Degree;Midlands & East Anglia;Yes;Hand-Rolled
+28;10;10;7;White;Male;10400 to 15600;Single;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Hand-Rolled
+44;10;15;7;White;Female;2600 to 5200;Married;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+64;NA;NA;7;White;Female;2600 to 5200;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+51;NA;NA;7;White;Female;10400 to 15600;Separated;2;English;No Qualification;Midlands & East Anglia;No;
+21;10;20;7;White;Male;10400 to 15600;Single;2;English;ONC/BTEC;Midlands & East Anglia;Yes;Packets
+40;2;1;7;White;Male;2600 to 5200;Single;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Hand-Rolled
+42;NA;NA;7;White;Female;5200 to 10400;Single;1;British;GCSE/O Level;Midlands & East Anglia;No;
+47;NA;NA;7;White;Female;5200 to 10400;Divorced;1;British;No Qualification;Midlands & East Anglia;No;
+73;NA;NA;7;White;Male;5200 to 10400;Widowed;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+18;15;15;7;White;Female;2600 to 5200;Single;1;British;Higher/Sub Degree;Midlands & East Anglia;Yes;Packets
+24;NA;NA;7;White;Male;10400 to 15600;Single;1;British;GCSE/O Level;Midlands & East Anglia;No;
+69;NA;NA;7;White;Female;5200 to 10400;Widowed;1;British;GCSE/O Level;Midlands & East Anglia;No;
+61;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;Midlands & East Anglia;No;
+83;NA;NA;5;Refused;Female;Refused;Single;5;Refused;No Qualification;Midlands & East Anglia;No;
+80;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+80;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+26;NA;NA;7;White;Female;5200 to 10400;Single;2;English;GCSE/O Level;Midlands & East Anglia;No;
+34;NA;NA;7;White;Female;10400 to 15600;Separated;1;British;GCSE/O Level;Midlands & East Anglia;No;
+34;NA;NA;7;White;Male;28600 to 36400;Married;1;British;Degree;Midlands & East Anglia;No;
+39;7;10;7;White;Female;15600 to 20800;Single;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Hand-Rolled
+33;20;40;7;White;Male;5200 to 10400;Married;2;English;Other/Sub Degree;Midlands & East Anglia;Yes;Packets
+36;NA;NA;7;White;Male;15600 to 20800;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+39;NA;NA;7;White;Female;10400 to 15600;Divorced;1;British;No Qualification;Midlands & East Anglia;No;
+35;7;10;7;White;Male;15600 to 20800;Married;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Hand-Rolled
+89;NA;NA;7;White;Female;2600 to 5200;Widowed;1;British;No Qualification;Midlands & East Anglia;No;
+23;10;10;1;Asian;Female;5200 to 10400;Married;1;British;Degree;Midlands & East Anglia;Yes;Packets
+32;NA;NA;1;Asian;Female;10400 to 15600;Divorced;2;English;GCSE/O Level;Midlands & East Anglia;No;
+32;6;10;1;Asian;Male;5200 to 10400;Married;4;Other;No Qualification;Midlands & East Anglia;Yes;Packets
+35;5;5;1;Asian;Male;2600 to 5200;Married;1;British;GCSE/O Level;Midlands & East Anglia;Yes;Packets
+18;NA;NA;7;White;Female;5200 to 10400;Single;1;British;A Levels;Midlands & East Anglia;No;
+44;NA;NA;7;White;Male;15600 to 20800;Divorced;2;English;Degree;Midlands & East Anglia;No;
+75;NA;NA;7;White;Female;5200 to 10400;Married;4;Other;GCSE/CSE;Midlands & East Anglia;No;
+65;NA;NA;7;White;Female;Under 2600;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+54;NA;NA;7;White;Female;20800 to 28600;Married;1;British;ONC/BTEC;Midlands & East Anglia;No;
+32;NA;NA;7;White;Male;28600 to 36400;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+57;NA;NA;7;White;Female;2600 to 5200;Married;1;British;Higher/Sub Degree;Midlands & East Anglia;No;
+50;15;20;7;White;Female;10400 to 15600;Married;1;British;Other/Sub Degree;Midlands & East Anglia;Yes;Packets
+58;NA;NA;7;White;Female;2600 to 5200;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+30;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Degree;Midlands & East Anglia;No;
+57;NA;NA;7;White;Female;15600 to 20800;Married;2;English;Higher/Sub Degree;Midlands & East Anglia;No;
+60;15;15;7;White;Female;2600 to 5200;Married;2;English;No Qualification;Midlands & East Anglia;Yes;Hand-Rolled
+78;NA;NA;7;White;Female;2600 to 5200;Separated;2;English;No Qualification;Midlands & East Anglia;No;
+44;20;20;7;White;Female;10400 to 15600;Married;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+32;10;20;7;White;Male;Above 36400;Single;1;British;ONC/BTEC;Midlands & East Anglia;Yes;Packets
+56;NA;NA;7;White;Female;28600 to 36400;Separated;2;English;Higher/Sub Degree;Midlands & East Anglia;No;
+51;NA;NA;7;White;Male;15600 to 20800;Married;6;Scottish;Other/Sub Degree;Midlands & East Anglia;No;
+71;NA;NA;2;Black;Male;5200 to 10400;Married;1;British;Other/Sub Degree;Midlands & East Anglia;No;
+74;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+56;25;35;7;White;Female;15600 to 20800;Single;2;English;Degree;Midlands & East Anglia;Yes;Packets
+80;NA;NA;7;White;Female;Under 2600;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+51;NA;NA;7;White;Female;15600 to 20800;Married;2;English;ONC/BTEC;Midlands & East Anglia;No;
+53;NA;NA;7;White;Female;10400 to 15600;Widowed;2;English;GCSE/O Level;Midlands & East Anglia;No;
+80;NA;NA;7;White;Male;20800 to 28600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+42;2;0;7;White;Male;20800 to 28600;Married;1;British;Degree;Midlands & East Anglia;Yes;Packets
+82;NA;NA;7;White;Female;10400 to 15600;Widowed;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+58;NA;NA;7;White;Male;5200 to 10400;Married;1;British;A Levels;Midlands & East Anglia;No;
+78;NA;NA;7;White;Female;10400 to 15600;Married;2;English;Degree;Midlands & East Anglia;No;
+61;20;20;7;White;Male;20800 to 28600;Married;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+49;15;20;7;White;Female;10400 to 15600;Single;1;British;No Qualification;Midlands & East Anglia;Yes;Packets
+51;NA;NA;7;White;Female;10400 to 15600;Divorced;2;English;GCSE/CSE;Midlands & East Anglia;No;
+48;NA;NA;7;White;Male;10400 to 15600;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+37;NA;NA;7;White;Female;10400 to 15600;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+51;5;5;1;Asian;Male;10400 to 15600;Married;1;British;GCSE/CSE;Midlands & East Anglia;Yes;Packets
+55;NA;NA;7;White;Male;10400 to 15600;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+48;NA;NA;7;White;Female;10400 to 15600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+82;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+56;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;Midlands & East Anglia;No;
+71;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;GCSE/O Level;Midlands & East Anglia;No;
+30;NA;NA;7;White;Male;5200 to 10400;Single;2;English;No Qualification;Midlands & East Anglia;No;
+73;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+35;8;10;7;White;Female;Under 2600;Married;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Packets
+79;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;Midlands & East Anglia;No;
+75;1;2;7;White;Male;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+49;NA;NA;7;White;Female;5200 to 10400;Married;2;English;ONC/BTEC;Midlands & East Anglia;No;
+74;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+33;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;Midlands & East Anglia;No;
+81;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+63;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;Midlands & East Anglia;No;
+78;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+68;18;18;7;White;Male;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+73;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;Midlands & East Anglia;No;
+34;NA;NA;7;White;Female;15600 to 20800;Married;2;English;A Levels;Midlands & East Anglia;No;
+36;15;15;7;White;Female;10400 to 15600;Divorced;2;English;No Qualification;Midlands & East Anglia;Yes;Hand-Rolled
+16;NA;NA;7;White;Female;Under 2600;Single;2;English;No Qualification;Midlands & East Anglia;No;
+72;NA;NA;7;White;Male;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+66;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Higher/Sub Degree;Midlands & East Anglia;No;
+41;NA;NA;7;White;Female;10400 to 15600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+49;15;20;7;White;Female;10400 to 15600;Married;2;English;Other/Sub Degree;Midlands & East Anglia;Yes;Packets
+42;NA;NA;7;White;Male;20800 to 28600;Single;1;British;No Qualification;Midlands & East Anglia;No;
+54;NA;NA;7;White;Female;10400 to 15600;Separated;2;English;GCSE/CSE;Midlands & East Anglia;No;
+70;NA;NA;7;White;Male;10400 to 15600;Married;1;British;Higher/Sub Degree;Midlands & East Anglia;No;
+29;NA;NA;1;Asian;Female;20800 to 28600;Married;1;British;GCSE/CSE;Midlands & East Anglia;No;
+43;10;5;1;Asian;Male;Refused;Married;1;British;No Qualification;Midlands & East Anglia;Yes;Packets
+19;NA;NA;3;Chinese;Female;Refused;Single;5;Refused;A Levels;Midlands & East Anglia;No;
+44;NA;NA;7;White;Male;28600 to 36400;Married;2;English;Higher/Sub Degree;Midlands & East Anglia;No;
+27;10;10;7;White;Male;20800 to 28600;Single;2;English;Degree;Midlands & East Anglia;Yes;Packets
+68;NA;NA;7;White;Male;20800 to 28600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+80;NA;NA;7;White;Female;15600 to 20800;Widowed;2;English;GCSE/O Level;Midlands & East Anglia;No;
+85;NA;NA;7;White;Male;10400 to 15600;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+65;NA;NA;7;White;Male;2600 to 5200;Married;2;English;No Qualification;Midlands & East Anglia;No;
+88;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+76;NA;NA;7;White;Female;Unknown;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+81;NA;NA;7;White;Male;5200 to 10400;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+44;1;1;7;White;Female;5200 to 10400;Separated;1;British;Degree;Midlands & East Anglia;Yes;Packets
+34;NA;NA;7;White;Female;10400 to 15600;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+55;NA;NA;7;White;Female;2600 to 5200;Married;2;English;Higher/Sub Degree;Midlands & East Anglia;No;
+77;NA;NA;7;White;Male;Refused;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+33;NA;NA;3;Chinese;Female;Refused;Married;5;Refused;Degree;Midlands & East Anglia;No;
+82;NA;NA;7;White;Male;5200 to 10400;Single;1;British;No Qualification;Midlands & East Anglia;No;
+77;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;Higher/Sub Degree;Midlands & East Anglia;No;
+19;NA;NA;7;White;Male;5200 to 10400;Single;2;English;GCSE/O Level;Midlands & East Anglia;No;
+70;NA;NA;7;White;Female;Refused;Widowed;1;British;Other/Sub Degree;Midlands & East Anglia;No;
+74;NA;NA;7;White;Female;5200 to 10400;Widowed;1;British;No Qualification;Midlands & East Anglia;No;
+57;NA;NA;7;White;Female;2600 to 5200;Married;1;British;Other/Sub Degree;Midlands & East Anglia;No;
+44;NA;NA;7;White;Female;10400 to 15600;Divorced;2;English;GCSE/CSE;Midlands & East Anglia;No;
+38;NA;NA;7;White;Female;Refused;Single;1;British;Degree;Midlands & East Anglia;No;
+43;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;Midlands & East Anglia;No;
+57;NA;NA;7;White;Female;2600 to 5200;Separated;8;Welsh;No Qualification;Midlands & East Anglia;No;
+54;20;20;3;Chinese;Female;2600 to 5200;Divorced;7;Unknown;GCSE/O Level;Midlands & East Anglia;Yes;Both/Mainly Packets
+17;NA;NA;7;White;Male;2600 to 5200;Single;2;English;GCSE/O Level;Midlands & East Anglia;No;
+60;NA;NA;7;White;Male;10400 to 15600;Married;1;British;No Qualification;Midlands & East Anglia;No;
+50;NA;NA;7;White;Female;Under 2600;Married;1;British;No Qualification;Midlands & East Anglia;No;
+24;2;8;7;White;Female;10400 to 15600;Single;1;British;GCSE/CSE;Midlands & East Anglia;Yes;Packets
+78;NA;NA;7;White;Female;2600 to 5200;Widowed;1;British;No Qualification;Midlands & East Anglia;No;
+60;NA;NA;7;White;Male;5200 to 10400;Single;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+85;6;6;7;White;Female;5200 to 10400;Widowed;2;English;Other/Sub Degree;Midlands & East Anglia;Yes;Packets
+59;NA;NA;7;White;Male;10400 to 15600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+65;NA;NA;7;White;Male;Above 36400;Married;2;English;Degree;Midlands & East Anglia;No;
+55;NA;NA;7;White;Female;Refused;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+32;NA;NA;7;White;Female;15600 to 20800;Married;1;British;ONC/BTEC;Midlands & East Anglia;No;
+41;NA;NA;4;Mixed;Male;Under 2600;Single;2;English;Higher/Sub Degree;Midlands & East Anglia;No;
+31;NA;NA;7;White;Female;10400 to 15600;Single;1;British;Higher/Sub Degree;Midlands & East Anglia;No;
+45;20;20;7;White;Male;5200 to 10400;Married;2;English;No Qualification;Midlands & East Anglia;Yes;Both/Mainly Packets
+30;NA;NA;7;White;Female;20800 to 28600;Single;1;British;Degree;Midlands & East Anglia;No;
+19;NA;NA;7;White;Female;2600 to 5200;Single;2;English;A Levels;Midlands & East Anglia;No;
+76;NA;NA;7;White;Female;5200 to 10400;Widowed;1;British;GCSE/O Level;Midlands & East Anglia;No;
+73;NA;NA;7;White;Male;10400 to 15600;Married;1;British;No Qualification;Midlands & East Anglia;No;
+19;2;5;7;White;Male;Refused;Single;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Packets
+34;NA;NA;7;White;Male;28600 to 36400;Married;2;English;Degree;Midlands & East Anglia;No;
+59;NA;NA;7;White;Female;5200 to 10400;Married;1;British;No Qualification;Midlands & East Anglia;No;
+22;10;40;7;White;Female;5200 to 10400;Single;2;English;GCSE/CSE;Midlands & East Anglia;Yes;Packets
+27;NA;NA;7;White;Female;10400 to 15600;Single;1;British;Degree;Midlands & East Anglia;No;
+45;NA;NA;7;White;Female;15600 to 20800;Married;1;British;A Levels;Midlands & East Anglia;No;
+69;NA;NA;7;White;Female;10400 to 15600;Widowed;4;Other;Other/Sub Degree;Midlands & East Anglia;No;
+76;NA;NA;7;White;Male;Above 36400;Married;4;Other;Degree;Midlands & East Anglia;No;
+54;NA;NA;7;White;Female;28600 to 36400;Married;1;British;Degree;Midlands & East Anglia;No;
+72;NA;NA;7;White;Male;5200 to 10400;Married;1;British;Degree;Midlands & East Anglia;No;
+89;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+78;6;6;5;Refused;Female;Refused;Widowed;5;Refused;No Qualification;Midlands & East Anglia;Yes;Packets
+60;NA;NA;7;White;Female;Refused;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+39;NA;NA;7;White;Female;10400 to 15600;Married;1;British;A Levels;Midlands & East Anglia;No;
+28;5;5;7;White;Male;5200 to 10400;Single;1;British;GCSE/O Level;Midlands & East Anglia;Yes;Both/Mainly Packets
+23;10;30;7;White;Male;Under 2600;Single;2;English;GCSE/CSE;Midlands & East Anglia;Yes;Both/Mainly Packets
+26;NA;NA;7;White;Male;10400 to 15600;Single;1;British;A Levels;Midlands & East Anglia;No;
+52;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+54;NA;NA;7;White;Female;10400 to 15600;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+20;10;10;7;White;Male;10400 to 15600;Single;1;British;A Levels;Midlands & East Anglia;Yes;Packets
+59;NA;NA;7;White;Female;Refused;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+30;NA;NA;7;White;Male;15600 to 20800;Married;1;British;ONC/BTEC;Midlands & East Anglia;No;
+41;NA;NA;7;White;Male;10400 to 15600;Married;6;Scottish;GCSE/O Level;Midlands & East Anglia;No;
+26;NA;NA;7;White;Female;10400 to 15600;Single;2;English;GCSE/O Level;Midlands & East Anglia;No;
+27;NA;NA;7;White;Female;2600 to 5200;Married;8;Welsh;GCSE/O Level;Midlands & East Anglia;No;
+49;20;20;5;Refused;Male;Refused;Married;5;Refused;No Qualification;Midlands & East Anglia;Yes;Packets
+29;NA;NA;7;White;Male;10400 to 15600;Single;2;English;ONC/BTEC;Midlands & East Anglia;No;
+36;NA;NA;7;White;Female;10400 to 15600;Divorced;1;British;GCSE/O Level;Midlands & East Anglia;No;
+43;NA;NA;7;White;Male;15600 to 20800;Divorced;2;English;GCSE/CSE;Midlands & East Anglia;No;
+29;NA;NA;7;White;Male;10400 to 15600;Single;2;English;ONC/BTEC;Midlands & East Anglia;No;
+34;10;15;7;White;Female;5200 to 10400;Separated;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Packets
+81;NA;NA;3;Chinese;Female;Refused;Married;5;Refused;No Qualification;Midlands & East Anglia;No;
+30;10;5;7;White;Female;10400 to 15600;Single;1;British;GCSE/O Level;Midlands & East Anglia;Yes;Hand-Rolled
+25;20;20;7;White;Male;20800 to 28600;Single;2;English;Degree;Midlands & East Anglia;Yes;Packets
+59;35;35;7;White;Male;10400 to 15600;Divorced;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+44;NA;NA;1;Asian;Female;2600 to 5200;Widowed;1;British;No Qualification;Midlands & East Anglia;No;
+64;NA;NA;3;Chinese;Male;Refused;Married;5;Refused;GCSE/O Level;Midlands & East Anglia;No;
+35;NA;NA;3;Chinese;Female;Refused;Married;5;Refused;A Levels;Midlands & East Anglia;No;
+40;NA;NA;7;White;Male;15600 to 20800;Single;2;English;GCSE/O Level;Midlands & East Anglia;No;
+65;NA;NA;2;Black;Female;10400 to 15600;Single;4;Other;A Levels;Midlands & East Anglia;No;
+17;NA;NA;1;Asian;Female;Refused;Single;1;British;GCSE/O Level;Midlands & East Anglia;No;
+72;NA;NA;2;Black;Male;15600 to 20800;Married;4;Other;No Qualification;Midlands & East Anglia;No;
+29;NA;NA;2;Black;Female;Under 2600;Married;1;British;Degree;Midlands & East Anglia;No;
+39;NA;NA;1;Asian;Male;28600 to 36400;Married;1;British;No Qualification;Midlands & East Anglia;No;
+70;NA;NA;7;White;Male;5200 to 10400;Widowed;1;British;No Qualification;Midlands & East Anglia;No;
+73;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;Midlands & East Anglia;No;
+46;NA;NA;7;White;Male;20800 to 28600;Single;1;British;GCSE/O Level;Midlands & East Anglia;No;
+59;NA;NA;7;White;Male;5200 to 10400;Married;2;English;ONC/BTEC;Midlands & East Anglia;No;
+77;NA;NA;7;White;Female;2600 to 5200;Widowed;1;British;No Qualification;Midlands & East Anglia;No;
+42;20;20;7;White;Female;10400 to 15600;Married;1;British;GCSE/O Level;Midlands & East Anglia;Yes;Packets
+41;NA;NA;7;White;Male;20800 to 28600;Married;1;British;GCSE/O Level;Midlands & East Anglia;No;
+49;15;20;7;White;Male;15600 to 20800;Married;1;British;A Levels;Midlands & East Anglia;Yes;Packets
+67;NA;NA;7;White;Male;10400 to 15600;Single;2;English;Degree;Midlands & East Anglia;No;
+65;NA;NA;7;White;Female;5200 to 10400;Single;2;English;No Qualification;Midlands & East Anglia;No;
+40;NA;NA;7;White;Male;15600 to 20800;Single;2;English;No Qualification;Midlands & East Anglia;No;
+49;NA;NA;7;White;Male;28600 to 36400;Separated;2;English;GCSE/O Level;Midlands & East Anglia;No;
+34;NA;NA;7;White;Male;15600 to 20800;Single;2;English;GCSE/CSE;Midlands & East Anglia;No;
+64;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+44;NA;NA;7;White;Female;10400 to 15600;Widowed;4;Other;Degree;Midlands & East Anglia;No;
+72;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+32;20;20;7;White;Male;20800 to 28600;Married;2;English;A Levels;Midlands & East Anglia;Yes;Packets
+53;NA;NA;7;White;Female;Refused;Married;1;British;No Qualification;Midlands & East Anglia;No;
+50;NA;NA;7;White;Female;15600 to 20800;Married;1;British;A Levels;Midlands & East Anglia;No;
+63;NA;NA;7;White;Female;5200 to 10400;Divorced;2;English;No Qualification;Midlands & East Anglia;No;
+57;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Degree;Midlands & East Anglia;No;
+40;NA;NA;7;White;Male;Refused;Married;2;English;Degree;Midlands & East Anglia;No;
+88;NA;NA;7;White;Female;10400 to 15600;Divorced;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+57;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;Midlands & East Anglia;No;
+54;NA;NA;7;White;Female;Above 36400;Married;1;British;Degree;Midlands & East Anglia;No;
+58;NA;NA;7;White;Female;20800 to 28600;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+77;NA;NA;7;White;Female;5200 to 10400;Divorced;1;British;Higher/Sub Degree;Midlands & East Anglia;No;
+45;NA;NA;7;White;Female;10400 to 15600;Divorced;4;Other;GCSE/CSE;Midlands & East Anglia;No;
+31;NA;NA;7;White;Female;Under 2600;Single;1;British;GCSE/O Level;Midlands & East Anglia;No;
+31;NA;NA;7;White;Male;20800 to 28600;Married;2;English;ONC/BTEC;Midlands & East Anglia;No;
+80;NA;NA;7;White;Male;28600 to 36400;Widowed;1;British;Degree;Midlands & East Anglia;No;
+67;30;30;7;White;Male;20800 to 28600;Widowed;2;English;Degree;Midlands & East Anglia;Yes;Packets
+40;10;20;7;White;Male;Refused;Single;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Packets
+70;NA;NA;7;White;Female;Refused;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+28;10;30;7;White;Female;Under 2600;Single;2;English;GCSE/CSE;Midlands & East Anglia;Yes;Packets
+30;NA;NA;7;White;Male;Above 36400;Married;4;Other;GCSE/CSE;Midlands & East Anglia;No;
+70;NA;NA;7;White;Female;Refused;Divorced;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+57;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;Midlands & East Anglia;No;
+76;NA;NA;7;White;Female;10400 to 15600;Widowed;2;English;GCSE/O Level;Midlands & East Anglia;No;
+89;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+81;NA;NA;7;White;Male;2600 to 5200;Married;1;British;No Qualification;Midlands & East Anglia;No;
+30;NA;NA;7;White;Female;15600 to 20800;Single;1;British;ONC/BTEC;Midlands & East Anglia;No;
+39;NA;NA;7;White;Female;5200 to 10400;Single;1;British;Higher/Sub Degree;Midlands & East Anglia;No;
+73;15;15;7;White;Female;Under 2600;Married;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+39;NA;NA;7;White;Female;Refused;Married;4;Other;A Levels;Midlands & East Anglia;No;
+76;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+62;NA;NA;7;White;Male;5200 to 10400;Single;2;English;No Qualification;Midlands & East Anglia;No;
+66;NA;NA;7;White;Female;2600 to 5200;Married;2;English;A Levels;Midlands & East Anglia;No;
+53;NA;NA;7;White;Female;28600 to 36400;Separated;1;British;Degree;Midlands & East Anglia;No;
+60;NA;NA;7;White;Male;10400 to 15600;Married;1;British;Degree;Midlands & East Anglia;No;
+36;NA;NA;7;White;Female;2600 to 5200;Married;1;British;GCSE/O Level;Midlands & East Anglia;No;
+40;NA;NA;7;White;Female;10400 to 15600;Single;1;British;GCSE/CSE;Midlands & East Anglia;No;
+57;15;15;7;White;Female;28600 to 36400;Separated;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+16;20;25;7;White;Male;Under 2600;Single;2;English;No Qualification;Midlands & East Anglia;Yes;Hand-Rolled
+25;NA;NA;7;White;Female;15600 to 20800;Single;2;English;GCSE/O Level;Midlands & East Anglia;No;
+58;NA;NA;7;White;Male;15600 to 20800;Single;2;English;No Qualification;Midlands & East Anglia;No;
+49;NA;NA;7;White;Female;5200 to 10400;Divorced;2;English;No Qualification;Midlands & East Anglia;No;
+48;NA;NA;7;White;Female;15600 to 20800;Single;2;English;Degree;Midlands & East Anglia;No;
+76;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+88;NA;NA;7;White;Male;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+35;NA;NA;3;Chinese;Male;10400 to 15600;Married;1;British;A Levels;Midlands & East Anglia;No;
+43;NA;NA;2;Black;Male;20800 to 28600;Married;1;British;Degree;Midlands & East Anglia;No;
+69;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+64;20;20;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+40;20;20;7;White;Female;10400 to 15600;Divorced;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Packets
+78;NA;NA;7;White;Male;Refused;Married;1;British;Degree;Midlands & East Anglia;No;
+58;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;Midlands & East Anglia;No;
+34;0;3;7;White;Female;Under 2600;Married;1;British;Degree;Midlands & East Anglia;Yes;Packets
+46;NA;NA;4;Mixed;Female;20800 to 28600;Married;1;British;Degree;Midlands & East Anglia;No;
+65;NA;NA;7;White;Female;20800 to 28600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+34;10;20;7;White;Female;10400 to 15600;Single;1;British;GCSE/O Level;Midlands & East Anglia;Yes;Both/Mainly Packets
+40;NA;NA;1;Asian;Female;5200 to 10400;Separated;1;British;GCSE/CSE;Midlands & East Anglia;No;
+79;NA;NA;7;White;Male;Refused;Married;2;English;No Qualification;Midlands & East Anglia;No;
+36;NA;NA;1;Asian;Male;10400 to 15600;Married;1;British;No Qualification;Midlands & East Anglia;No;
+39;NA;NA;7;White;Female;2600 to 5200;Married;4;Other;No Qualification;Midlands & East Anglia;No;
+24;NA;NA;7;White;Male;15600 to 20800;Married;2;English;GCSE/CSE;Midlands & East Anglia;No;
+28;10;20;7;White;Female;2600 to 5200;Single;2;English;Other/Sub Degree;Midlands & East Anglia;Yes;Both/Mainly Packets
+26;NA;NA;1;Asian;Female;2600 to 5200;Single;2;English;A Levels;Midlands & East Anglia;No;
+45;NA;NA;7;White;Female;Under 2600;Widowed;2;English;GCSE/CSE;Midlands & East Anglia;No;
+24;10;18;7;White;Female;5200 to 10400;Single;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Packets
+77;NA;NA;7;White;Male;2600 to 5200;Divorced;2;English;No Qualification;Midlands & East Anglia;No;
+78;NA;NA;7;White;Female;10400 to 15600;Married;8;Welsh;Higher/Sub Degree;Midlands & East Anglia;No;
+25;NA;NA;7;White;Male;Refused;Single;6;Scottish;Degree;Midlands & East Anglia;No;
+36;NA;NA;7;White;Male;15600 to 20800;Married;1;British;GCSE/CSE;Midlands & East Anglia;No;
+17;NA;NA;7;White;Male;Refused;Single;2;English;GCSE/O Level;Midlands & East Anglia;No;
+55;NA;NA;7;White;Male;28600 to 36400;Married;1;British;GCSE/O Level;Midlands & East Anglia;No;
+70;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+43;8;15;7;White;Female;20800 to 28600;Single;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Hand-Rolled
+59;NA;NA;7;White;Female;10400 to 15600;Divorced;1;British;No Qualification;Midlands & East Anglia;No;
+32;NA;NA;7;White;Female;Under 2600;Married;1;British;Other/Sub Degree;Midlands & East Anglia;No;
+34;NA;NA;7;White;Female;Under 2600;Married;1;British;Degree;Midlands & East Anglia;No;
+58;NA;NA;7;White;Male;28600 to 36400;Single;1;British;Degree;Midlands & East Anglia;No;
+44;NA;NA;7;White;Male;Above 36400;Married;1;British;GCSE/O Level;Midlands & East Anglia;No;
+64;0;0;7;White;Male;Refused;Married;1;British;No Qualification;Midlands & East Anglia;Yes;Packets
+34;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/CSE;Midlands & East Anglia;No;
+32;NA;NA;7;White;Male;Refused;Single;2;English;GCSE/CSE;Midlands & East Anglia;No;
+38;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;Midlands & East Anglia;No;
+28;NA;NA;7;White;Male;28600 to 36400;Single;1;British;GCSE/CSE;Midlands & East Anglia;No;
+42;NA;NA;7;White;Male;20800 to 28600;Married;2;English;GCSE/CSE;Midlands & East Anglia;No;
+34;NA;NA;7;White;Female;20800 to 28600;Single;4;Other;Degree;Midlands & East Anglia;No;
+23;5;15;7;White;Male;5200 to 10400;Single;2;English;ONC/BTEC;Midlands & East Anglia;Yes;Both/Mainly Packets
+55;NA;NA;7;White;Male;15600 to 20800;Separated;1;British;Degree;Midlands & East Anglia;No;
+65;NA;NA;7;White;Male;5200 to 10400;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+62;NA;NA;7;White;Female;2600 to 5200;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+66;NA;NA;7;White;Female;15600 to 20800;Married;2;English;Higher/Sub Degree;Midlands & East Anglia;No;
+73;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+34;NA;NA;7;White;Male;20800 to 28600;Single;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+33;NA;NA;7;White;Female;2600 to 5200;Married;2;English;Degree;Midlands & East Anglia;No;
+76;NA;NA;7;White;Male;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+55;0;1;7;White;Female;2600 to 5200;Married;2;English;No Qualification;Midlands & East Anglia;Yes;Packets
+39;NA;NA;7;White;Female;Under 2600;Married;2;English;Degree;Midlands & East Anglia;No;
+26;NA;NA;1;Asian;Female;15600 to 20800;Single;1;British;Degree;Midlands & East Anglia;No;
+61;25;25;7;White;Male;15600 to 20800;Married;2;English;GCSE/O Level;Midlands & East Anglia;Yes;Packets
+78;NA;NA;7;White;Female;2600 to 5200;Married;2;English;Other/Sub Degree;Midlands & East Anglia;No;
+42;NA;NA;7;White;Male;Above 36400;Married;2;English;Degree;Midlands & East Anglia;No;
+72;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;Midlands & East Anglia;No;
+62;30;30;7;White;Male;20800 to 28600;Widowed;2;English;No Qualification;Midlands & East Anglia;Yes;Both/Mainly Packets
+46;20;20;7;White;Female;10400 to 15600;Married;1;British;GCSE/O Level;Midlands & East Anglia;Yes;Packets
+24;NA;NA;7;White;Male;15600 to 20800;Single;1;British;A Levels;Midlands & East Anglia;No;
+27;4;6;2;Black;Male;10400 to 15600;Single;1;British;Degree;Midlands & East Anglia;Yes;Both/Mainly Packets
+64;NA;NA;7;White;Female;5200 to 10400;Married;1;British;GCSE/O Level;Midlands & East Anglia;No;
+86;NA;NA;7;White;Male;28600 to 36400;Married;2;English;Degree;Midlands & East Anglia;No;
+46;NA;NA;7;White;Female;20800 to 28600;Married;1;British;Degree;Midlands & East Anglia;No;
+20;15;20;7;White;Male;10400 to 15600;Single;1;British;ONC/BTEC;Midlands & East Anglia;Yes;Both/Mainly Packets
+35;NA;NA;7;White;Male;28600 to 36400;Divorced;4;Other;Higher/Sub Degree;Midlands & East Anglia;No;
+46;30;30;7;White;Female;28600 to 36400;Married;3;Irish;Higher/Sub Degree;Midlands & East Anglia;Yes;Packets
+39;NA;NA;7;White;Female;Under 2600;Married;3;Irish;Higher/Sub Degree;Midlands & East Anglia;No;
+28;NA;NA;7;White;Female;Above 36400;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+33;NA;NA;5;Refused;Female;Refused;Married;5;Refused;Higher/Sub Degree;Midlands & East Anglia;No;
+39;NA;NA;7;White;Female;5200 to 10400;Divorced;2;English;GCSE/O Level;Midlands & East Anglia;No;
+45;NA;NA;7;White;Male;10400 to 15600;Divorced;1;British;GCSE/CSE;Midlands & East Anglia;No;
+37;NA;NA;7;White;Female;20800 to 28600;Separated;1;British;Higher/Sub Degree;Midlands & East Anglia;No;
+29;5;10;7;White;Male;15600 to 20800;Married;2;English;ONC/BTEC;Midlands & East Anglia;Yes;Packets
+76;NA;NA;7;White;Male;5200 to 10400;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+26;NA;NA;7;White;Male;20800 to 28600;Married;2;English;Degree;Midlands & East Anglia;No;
+47;10;20;7;White;Female;20800 to 28600;Divorced;2;English;Degree;Midlands & East Anglia;Yes;Packets
+72;NA;NA;7;White;Male;10400 to 15600;Divorced;2;English;No Qualification;Midlands & East Anglia;No;
+72;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+65;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+69;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;Midlands & East Anglia;No;
+61;NA;NA;7;White;Female;Unknown;Married;2;English;A Levels;Midlands & East Anglia;No;
+63;NA;NA;7;White;Female;Refused;Married;2;English;No Qualification;Midlands & East Anglia;No;
+16;NA;NA;7;White;Male;Refused;Single;1;British;No Qualification;Midlands & East Anglia;No;
+61;NA;NA;7;White;Male;2600 to 5200;Divorced;2;English;No Qualification;Midlands & East Anglia;No;
+18;NA;NA;7;White;Male;Under 2600;Single;2;English;GCSE/O Level;Midlands & East Anglia;No;
+76;NA;NA;7;White;Male;5200 to 10400;Single;2;English;No Qualification;Midlands & East Anglia;No;
+65;NA;NA;7;White;Male;5200 to 10400;Married;2;English;GCSE/O Level;Midlands & East Anglia;No;
+52;NA;NA;7;White;Female;5200 to 10400;Married;2;English;No Qualification;Midlands & East Anglia;No;
+64;NA;NA;7;White;Male;10400 to 15600;Widowed;2;English;No Qualification;Midlands & East Anglia;No;
+42;NA;NA;7;White;Female;Under 2600;Married;1;British;GCSE/CSE;Midlands & East Anglia;No;
+40;NA;NA;7;White;Male;Above 36400;Married;4;Other;Degree;London;No;
+28;NA;NA;4;Mixed;Female;20800 to 28600;Married;2;English;Other/Sub Degree;London;No;
+40;NA;NA;7;White;Male;Above 36400;Married;8;Welsh;Degree;London;No;
+48;NA;NA;7;White;Male;28600 to 36400;Married;1;British;GCSE/O Level;London;No;
+35;NA;NA;7;White;Male;20800 to 28600;Separated;4;Other;Degree;London;No;
+30;3;3;2;Black;Female;5200 to 10400;Single;1;British;Degree;London;Yes;Packets
+26;NA;NA;7;White;Female;5200 to 10400;Single;1;British;Degree;London;No;
+81;NA;NA;7;White;Male;5200 to 10400;Widowed;2;English;No Qualification;London;No;
+77;NA;NA;7;White;Male;10400 to 15600;Divorced;2;English;A Levels;London;No;
+25;NA;NA;7;White;Female;15600 to 20800;Single;1;British;Degree;London;No;
+66;NA;NA;1;Asian;Female;Under 2600;Married;1;British;No Qualification;London;No;
+18;15;15;7;White;Male;5200 to 10400;Single;1;British;A Levels;London;Yes;Packets
+43;NA;NA;2;Black;Male;15600 to 20800;Married;1;British;GCSE/O Level;London;No;
+49;6;20;7;White;Male;5200 to 10400;Divorced;2;English;Other/Sub Degree;London;Yes;Both/Mainly Packets
+29;NA;NA;7;White;Male;Above 36400;Married;2;English;Degree;London;No;
+20;NA;NA;7;White;Female;5200 to 10400;Single;2;English;No Qualification;London;No;
+75;25;25;7;White;Female;Under 2600;Widowed;2;English;Other/Sub Degree;London;Yes;Packets
+40;NA;NA;3;Chinese;Male;20800 to 28600;Married;4;Other;No Qualification;London;No;
+64;NA;NA;7;White;Female;5200 to 10400;Single;3;Irish;Higher/Sub Degree;London;No;
+66;NA;NA;3;Chinese;Male;Refused;Single;1;British;Degree;London;No;
+34;NA;NA;7;White;Female;5200 to 10400;Single;1;British;Degree;London;No;
+76;NA;NA;7;White;Female;28600 to 36400;Divorced;1;British;Degree;London;No;
+30;0;1;7;White;Male;Above 36400;Married;2;English;Degree;London;Yes;Packets
+55;NA;NA;4;Mixed;Male;Above 36400;Married;4;Other;Degree;London;No;
+49;NA;NA;7;White;Female;5200 to 10400;Single;2;English;GCSE/O Level;London;No;
+38;NA;NA;3;Chinese;Male;10400 to 15600;Separated;2;English;Degree;London;No;
+23;10;10;5;Refused;Male;Refused;Single;4;Other;A Levels;London;Yes;Packets
+77;NA;NA;7;White;Male;15600 to 20800;Married;8;Welsh;Degree;London;No;
+46;8;8;7;White;Male;10400 to 15600;Single;4;Other;Degree;London;Yes;Hand-Rolled
+26;NA;NA;7;White;Female;Under 2600;Separated;1;British;Higher/Sub Degree;London;No;
+26;8;10;7;White;Female;28600 to 36400;Single;4;Other;Degree;London;Yes;Packets
+45;2;7;7;White;Male;Above 36400;Single;3;Irish;Degree;London;Yes;Packets
+45;NA;NA;2;Black;Female;2600 to 5200;Single;4;Other;No Qualification;London;No;
+61;NA;NA;7;White;Female;Refused;Married;2;English;No Qualification;London;No;
+47;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;London;No;
+75;10;10;7;White;Female;10400 to 15600;Widowed;2;English;Other/Sub Degree;London;Yes;Packets
+36;20;30;7;White;Female;2600 to 5200;Divorced;2;English;No Qualification;London;Yes;Packets
+26;NA;NA;3;Chinese;Male;2600 to 5200;Single;1;British;Degree;London;No;
+71;25;25;7;White;Male;2600 to 5200;Widowed;2;English;No Qualification;London;Yes;Packets
+69;10;10;7;White;Male;5200 to 10400;Married;1;British;No Qualification;London;Yes;Hand-Rolled
+38;6;10;7;White;Male;28600 to 36400;Single;3;Irish;A Levels;London;Yes;Hand-Rolled
+21;NA;NA;2;Black;Female;Refused;Single;1;British;GCSE/O Level;London;No;
+26;NA;NA;3;Chinese;Male;10400 to 15600;Single;1;British;No Qualification;London;No;
+83;NA;NA;7;White;Female;Unknown;Widowed;2;English;No Qualification;London;No;
+56;NA;NA;7;White;Female;5200 to 10400;Divorced;4;Other;No Qualification;London;No;
+34;20;20;7;White;Male;Above 36400;Single;2;English;Degree;London;Yes;Packets
+66;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;London;No;
+32;3;3;7;White;Female;5200 to 10400;Single;2;English;GCSE/O Level;London;Yes;Hand-Rolled
+77;NA;NA;7;White;Female;5200 to 10400;Single;2;English;No Qualification;London;No;
+70;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;London;No;
+24;10;10;7;White;Male;Under 2600;Single;2;English;GCSE/O Level;London;Yes;Both/Mainly Packets
+81;NA;NA;7;White;Female;5200 to 10400;Widowed;1;British;No Qualification;London;No;
+37;NA;NA;7;White;Male;2600 to 5200;Separated;4;Other;Other/Sub Degree;London;No;
+90;NA;NA;7;White;Male;2600 to 5200;Married;2;English;No Qualification;London;No;
+29;0;6;2;Black;Female;5200 to 10400;Single;4;Other;GCSE/O Level;London;Yes;Hand-Rolled
+24;NA;NA;7;White;Female;5200 to 10400;Single;4;Other;A Levels;London;No;
+81;NA;NA;7;White;Male;2600 to 5200;Widowed;2;English;No Qualification;London;No;
+38;NA;NA;2;Black;Female;5200 to 10400;Separated;4;Other;ONC/BTEC;London;No;
+22;7;0;7;White;Male;20800 to 28600;Single;3;Irish;GCSE/O Level;London;Yes;Packets
+31;NA;NA;1;Asian;Male;5200 to 10400;Married;1;British;GCSE/CSE;London;No;
+77;NA;NA;7;White;Female;2600 to 5200;Widowed;4;Other;No Qualification;London;No;
+61;4;5;7;White;Female;10400 to 15600;Divorced;4;Other;No Qualification;London;Yes;Packets
+54;NA;NA;7;White;Male;2600 to 5200;Single;2;English;No Qualification;London;No;
+72;NA;NA;7;White;Female;5200 to 10400;Widowed;1;British;No Qualification;London;No;
+66;30;30;7;White;Male;5200 to 10400;Single;1;British;No Qualification;London;Yes;Packets
+47;NA;NA;7;White;Male;20800 to 28600;Single;1;British;ONC/BTEC;London;No;
+76;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;London;No;
+41;NA;NA;7;White;Male;20800 to 28600;Married;2;English;A Levels;London;No;
+80;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;London;No;
+63;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;London;No;
+29;NA;NA;7;White;Male;15600 to 20800;Married;2;English;No Qualification;London;No;
+40;NA;NA;7;White;Female;15600 to 20800;Single;4;Other;GCSE/O Level;London;No;
+54;NA;NA;7;White;Female;10400 to 15600;Married;2;English;No Qualification;London;No;
+66;55;5;1;Asian;Male;10400 to 15600;Married;1;British;Degree;London;Yes;Packets
+69;NA;NA;1;Asian;Male;10400 to 15600;Married;4;Other;Other/Sub Degree;London;No;
+51;NA;NA;7;White;Male;15600 to 20800;Married;1;British;No Qualification;London;No;
+70;NA;NA;7;White;Male;5200 to 10400;Widowed;2;English;No Qualification;London;No;
+36;1;10;7;White;Female;2600 to 5200;Married;1;British;GCSE/O Level;London;Yes;Packets
+73;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;London;No;
+72;NA;NA;7;White;Male;2600 to 5200;Married;1;British;Other/Sub Degree;London;No;
+18;NA;NA;7;White;Female;Under 2600;Single;2;English;GCSE/O Level;London;No;
+57;NA;NA;7;White;Female;Under 2600;Married;1;British;Other/Sub Degree;London;No;
+21;NA;NA;7;White;Male;Refused;Single;1;British;A Levels;London;No;
+64;NA;NA;1;Asian;Male;5200 to 10400;Married;1;British;Degree;London;No;
+39;NA;NA;7;White;Female;20800 to 28600;Married;2;English;GCSE/CSE;London;No;
+37;NA;NA;7;White;Female;5200 to 10400;Divorced;1;British;GCSE/CSE;London;No;
+36;1;5;7;White;Female;Under 2600;Married;1;British;GCSE/CSE;London;Yes;Packets
+37;NA;NA;7;White;Female;10400 to 15600;Married;2;English;Degree;London;No;
+79;NA;NA;7;White;Male;2600 to 5200;Married;2;English;No Qualification;London;No;
+49;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/CSE;London;No;
+30;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;London;No;
+27;NA;NA;7;White;Female;20800 to 28600;Single;8;Welsh;Degree;London;No;
+16;NA;NA;7;White;Male;Under 2600;Single;2;English;GCSE/O Level;London;No;
+40;NA;NA;7;White;Male;Above 36400;Married;2;English;GCSE/O Level;London;No;
+45;NA;NA;7;White;Female;15600 to 20800;Separated;2;English;GCSE/O Level;London;No;
+78;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;Other/Sub Degree;London;No;
+59;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Other/Sub Degree;London;No;
+93;3;0;7;White;Female;5200 to 10400;Widowed;2;English;Other/Sub Degree;London;Yes;Packets
+33;NA;NA;7;White;Female;10400 to 15600;Married;2;English;A Levels;London;No;
+57;NA;NA;7;White;Female;15600 to 20800;Divorced;1;British;No Qualification;London;No;
+53;4;4;7;White;Female;2600 to 5200;Single;2;English;No Qualification;London;Yes;Packets
+54;NA;NA;7;White;Female;2600 to 5200;Divorced;2;English;Higher/Sub Degree;London;No;
+33;NA;NA;7;White;Female;Above 36400;Married;3;Irish;A Levels;London;No;
+52;NA;NA;7;White;Female;2600 to 5200;Single;3;Irish;Other/Sub Degree;London;No;
+31;NA;NA;7;White;Male;10400 to 15600;Single;2;English;Higher/Sub Degree;London;No;
+54;NA;NA;7;White;Female;28600 to 36400;Married;1;British;Degree;London;No;
+41;10;10;7;White;Female;20800 to 28600;Married;1;British;Higher/Sub Degree;London;Yes;Packets
+23;NA;NA;7;White;Female;10400 to 15600;Single;2;English;GCSE/O Level;London;No;
+81;NA;NA;7;White;Female;Under 2600;Widowed;1;British;GCSE/CSE;London;No;
+17;NA;NA;7;White;Female;Refused;Single;1;British;A Levels;London;No;
+73;NA;NA;7;White;Male;Above 36400;Married;1;British;No Qualification;London;No;
+62;NA;NA;7;White;Male;20800 to 28600;Married;2;English;No Qualification;London;No;
+73;16;16;7;White;Female;10400 to 15600;Married;6;Scottish;Degree;London;Yes;Packets
+22;15;15;7;White;Male;20800 to 28600;Single;2;English;ONC/BTEC;London;Yes;Both/Mainly Packets
+18;NA;NA;7;White;Female;Under 2600;Single;2;English;A Levels;London;No;
+86;7;7;7;White;Female;10400 to 15600;Widowed;3;Irish;GCSE/O Level;London;Yes;Packets
+54;20;20;7;White;Female;20800 to 28600;Married;1;British;Degree;London;Yes;Packets
+55;NA;NA;7;White;Female;20800 to 28600;Married;1;British;Degree;London;No;
+22;15;15;4;Mixed;Female;20800 to 28600;Single;2;English;Degree;London;Yes;Packets
+30;NA;NA;1;Asian;Female;5200 to 10400;Married;1;British;ONC/BTEC;London;No;
+25;NA;NA;2;Black;Female;2600 to 5200;Single;4;Other;Degree;London;No;
+54;10;15;3;Chinese;Female;Under 2600;Divorced;1;British;Other/Sub Degree;London;Yes;Packets
+36;NA;NA;7;White;Male;15600 to 20800;Single;2;English;GCSE/O Level;London;No;
+40;NA;NA;7;White;Female;Under 2600;Married;4;Other;Other/Sub Degree;London;No;
+51;2;10;7;White;Female;2600 to 5200;Divorced;1;British;GCSE/O Level;London;Yes;Packets
+44;NA;NA;7;White;Male;10400 to 15600;Married;1;British;Degree;London;No;
+26;0;5;7;White;Female;Under 2600;Single;4;Other;Degree;London;Yes;Packets
+73;NA;NA;7;White;Male;5200 to 10400;Married;2;English;ONC/BTEC;London;No;
+36;NA;NA;7;White;Female;15600 to 20800;Married;2;English;GCSE/O Level;London;No;
+69;NA;NA;7;White;Male;5200 to 10400;Widowed;3;Irish;No Qualification;London;No;
+41;NA;NA;7;White;Female;10400 to 15600;Married;1;British;Degree;London;No;
+40;NA;NA;7;White;Male;Above 36400;Married;4;Other;Degree;London;No;
+82;3;3;7;White;Male;2600 to 5200;Married;4;Other;Other/Sub Degree;London;Yes;Packets
+27;NA;NA;7;White;Male;15600 to 20800;Single;1;British;Degree;London;No;
+35;NA;NA;7;White;Female;20800 to 28600;Single;2;English;Degree;London;No;
+35;NA;NA;7;White;Male;Above 36400;Married;2;English;Degree;London;No;
+33;NA;NA;7;White;Male;28600 to 36400;Married;4;Other;Other/Sub Degree;London;No;
+41;20;20;7;White;Female;2600 to 5200;Divorced;1;British;No Qualification;London;Yes;Packets
+26;NA;NA;2;Black;Female;5200 to 10400;Separated;1;British;Other/Sub Degree;London;No;
+55;NA;NA;7;White;Female;Refused;Married;2;English;No Qualification;London;No;
+18;NA;NA;2;Black;Male;Under 2600;Single;4;Other;GCSE/O Level;London;No;
+68;NA;NA;2;Black;Female;5200 to 10400;Married;1;British;GCSE/O Level;London;No;
+43;NA;NA;2;Black;Female;10400 to 15600;Single;4;Other;GCSE/O Level;London;No;
+58;NA;NA;4;Mixed;Male;20800 to 28600;Married;2;English;No Qualification;London;No;
+39;NA;NA;7;White;Female;5200 to 10400;Married;1;British;GCSE/O Level;London;No;
+54;NA;NA;7;White;Female;2600 to 5200;Separated;2;English;No Qualification;London;No;
+62;NA;NA;7;White;Female;28600 to 36400;Married;1;British;No Qualification;London;No;
+40;0;2;7;White;Female;10400 to 15600;Married;2;English;A Levels;London;Yes;Both/Mainly Packets
+59;NA;NA;7;White;Female;2600 to 5200;Single;2;English;GCSE/O Level;London;No;
+57;NA;NA;7;White;Female;20800 to 28600;Divorced;1;British;GCSE/O Level;London;No;
+42;10;25;2;Black;Female;5200 to 10400;Single;4;Other;GCSE/O Level;London;Yes;Packets
+48;25;25;7;White;Female;20800 to 28600;Separated;6;Scottish;GCSE/O Level;London;Yes;Packets
+45;10;15;2;Black;Female;20800 to 28600;Divorced;1;British;GCSE/O Level;London;Yes;Packets
+24;NA;NA;7;White;Female;2600 to 5200;Single;1;British;GCSE/CSE;London;No;
+66;NA;NA;2;Black;Female;10400 to 15600;Widowed;1;British;GCSE/CSE;London;No;
+63;20;20;7;White;Male;10400 to 15600;Single;2;English;Higher/Sub Degree;London;Yes;Packets
+28;NA;NA;5;Refused;Male;Refused;Single;5;Refused;GCSE/O Level;London;No;
+59;NA;NA;7;White;Male;20800 to 28600;Divorced;2;English;No Qualification;London;No;
+50;NA;NA;2;Black;Male;20800 to 28600;Married;4;Other;Higher/Sub Degree;London;No;
+41;NA;NA;7;White;Female;10400 to 15600;Separated;2;English;GCSE/CSE;London;No;
+76;NA;NA;7;White;Female;5200 to 10400;Single;1;British;No Qualification;London;No;
+24;20;15;7;White;Male;15600 to 20800;Single;1;British;ONC/BTEC;London;Yes;Packets
+25;2;5;3;Chinese;Female;20800 to 28600;Single;1;British;Other/Sub Degree;London;Yes;Packets
+33;NA;NA;3;Chinese;Female;5200 to 10400;Widowed;4;Other;Degree;London;No;
+31;NA;NA;2;Black;Male;28600 to 36400;Single;4;Other;ONC/BTEC;London;No;
+33;8;10;2;Black;Female;5200 to 10400;Single;1;British;Degree;London;Yes;Packets
+37;NA;NA;7;White;Female;5200 to 10400;Single;4;Other;No Qualification;London;No;
+81;NA;NA;2;Black;Male;5200 to 10400;Divorced;1;British;No Qualification;London;No;
+36;NA;NA;2;Black;Female;20800 to 28600;Single;4;Other;No Qualification;London;No;
+64;7;15;7;White;Female;10400 to 15600;Married;1;British;No Qualification;London;Yes;Hand-Rolled
+51;NA;NA;1;Asian;Male;5200 to 10400;Married;1;British;Other/Sub Degree;London;No;
+19;NA;NA;4;Mixed;Female;10400 to 15600;Single;1;British;A Levels;London;No;
+18;NA;NA;2;Black;Female;Refused;Single;1;British;A Levels;London;No;
+31;5;10;7;White;Male;Above 36400;Married;2;English;Degree;London;Yes;Both/Mainly Packets
+24;NA;NA;7;White;Female;5200 to 10400;Single;2;English;ONC/BTEC;London;No;
+18;10;20;3;Chinese;Male;Under 2600;Single;4;Other;No Qualification;London;Yes;Packets
+22;NA;NA;1;Asian;Male;2600 to 5200;Single;4;Other;Degree;London;No;
+26;NA;NA;2;Black;Female;10400 to 15600;Single;4;Other;Other/Sub Degree;London;No;
+33;NA;NA;2;Black;Female;2600 to 5200;Single;1;British;Degree;London;No;
+17;10;20;1;Asian;Male;Under 2600;Single;1;British;GCSE/CSE;London;Yes;Packets
+37;10;20;2;Black;Male;10400 to 15600;Single;1;British;ONC/BTEC;London;Yes;Packets
+60;NA;NA;3;Chinese;Male;2600 to 5200;Married;1;British;No Qualification;London;No;
+80;NA;NA;7;White;Male;2600 to 5200;Married;1;British;No Qualification;South East;No;
+68;7;7;7;White;Male;10400 to 15600;Married;1;British;ONC/BTEC;South East;Yes;Packets
+65;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;South East;No;
+42;NA;NA;3;Chinese;Male;10400 to 15600;Married;1;British;No Qualification;South East;No;
+48;NA;NA;7;White;Female;15600 to 20800;Married;1;British;GCSE/O Level;South East;No;
+46;NA;NA;7;White;Male;Above 36400;Married;6;Scottish;A Levels;South East;No;
+44;NA;NA;7;White;Male;28600 to 36400;Married;2;English;ONC/BTEC;South East;No;
+29;5;10;7;White;Female;10400 to 15600;Married;2;English;A Levels;South East;Yes;Packets
+38;NA;NA;7;White;Male;15600 to 20800;Married;2;English;Higher/Sub Degree;South East;No;
+52;NA;NA;7;White;Female;Refused;Married;3;Irish;No Qualification;South East;No;
+48;NA;NA;7;White;Male;Above 36400;Divorced;2;English;Degree;South East;No;
+65;NA;NA;7;White;Male;10400 to 15600;Married;1;British;GCSE/CSE;South East;No;
+27;NA;NA;7;White;Male;10400 to 15600;Single;2;English;Degree;South East;No;
+37;NA;NA;7;White;Female;2600 to 5200;Married;2;English;GCSE/O Level;South East;No;
+42;NA;NA;7;White;Female;Under 2600;Married;1;British;GCSE/O Level;South East;No;
+53;NA;NA;7;White;Male;5200 to 10400;Single;1;British;No Qualification;South East;No;
+66;20;20;7;White;Female;Refused;Widowed;2;English;No Qualification;South East;Yes;Packets
+20;NA;NA;7;White;Female;15600 to 20800;Single;2;English;ONC/BTEC;South East;No;
+62;NA;NA;5;Refused;Female;Refused;Married;5;Refused;No Qualification;South East;No;
+18;NA;NA;7;White;Male;2600 to 5200;Single;2;English;Other/Sub Degree;South East;No;
+69;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;South East;No;
+63;1;2;7;White;Male;Above 36400;Divorced;2;English;ONC/BTEC;South East;Yes;Packets
+41;NA;NA;3;Chinese;Male;28600 to 36400;Married;1;British;Degree;South East;No;
+74;NA;NA;7;White;Male;Above 36400;Married;2;English;Higher/Sub Degree;South East;No;
+20;NA;NA;7;White;Female;2600 to 5200;Single;4;Other;Other/Sub Degree;South East;No;
+18;NA;NA;7;White;Female;2600 to 5200;Single;1;British;GCSE/O Level;South East;No;
+28;10;10;2;Black;Male;5200 to 10400;Single;2;English;GCSE/O Level;South East;Yes;Hand-Rolled
+49;NA;NA;3;Chinese;Male;Above 36400;Married;1;British;Degree;South East;No;
+64;NA;NA;7;White;Male;5200 to 10400;Married;1;British;Higher/Sub Degree;South East;No;
+69;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;GCSE/O Level;South East;No;
+33;NA;NA;7;White;Female;5200 to 10400;Separated;1;British;No Qualification;South East;No;
+22;7;15;7;White;Female;10400 to 15600;Single;2;English;GCSE/CSE;South East;Yes;Packets
+63;NA;NA;7;White;Female;10400 to 15600;Married;2;English;No Qualification;South East;No;
+93;NA;NA;7;White;Female;2600 to 5200;Widowed;8;Welsh;No Qualification;South East;No;
+65;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;South East;No;
+33;10;20;7;White;Female;10400 to 15600;Married;1;British;GCSE/O Level;South East;Yes;Packets
+38;NA;NA;7;White;Female;2600 to 5200;Married;1;British;No Qualification;South East;No;
+29;10;10;7;White;Female;Under 2600;Single;2;English;GCSE/O Level;South East;Yes;Packets
+59;NA;NA;7;White;Male;Above 36400;Married;1;British;A Levels;South East;No;
+37;NA;NA;4;Mixed;Male;Above 36400;Single;2;English;Degree;South East;No;
+51;20;20;7;White;Male;20800 to 28600;Single;1;British;No Qualification;South East;Yes;Packets
+33;NA;NA;7;White;Female;Refused;Married;2;English;GCSE/O Level;South East;No;
+80;NA;NA;7;White;Female;2600 to 5200;Single;2;English;Higher/Sub Degree;South East;No;
+49;NA;NA;7;White;Male;15600 to 20800;Married;2;English;A Levels;South East;No;
+38;NA;NA;7;White;Female;20800 to 28600;Married;2;English;Degree;South East;No;
+45;20;10;7;White;Male;Above 36400;Single;2;English;GCSE/O Level;South East;Yes;Packets
+58;NA;NA;7;White;Female;20800 to 28600;Married;6;Scottish;Higher/Sub Degree;South East;No;
+63;NA;NA;7;White;Female;2600 to 5200;Married;2;English;Degree;South East;No;
+69;NA;NA;7;White;Female;2600 to 5200;Married;2;English;Other/Sub Degree;South East;No;
+86;NA;NA;7;White;Male;20800 to 28600;Widowed;1;British;Other/Sub Degree;South East;No;
+66;NA;NA;7;White;Female;20800 to 28600;Widowed;2;English;Higher/Sub Degree;South East;No;
+61;NA;NA;6;Unknown;Male;5200 to 10400;Married;1;British;No Qualification;South East;No;
+62;NA;NA;7;White;Female;15600 to 20800;Separated;2;English;Higher/Sub Degree;South East;No;
+89;NA;NA;7;White;Female;2600 to 5200;Widowed;1;British;No Qualification;South East;No;
+72;NA;NA;7;White;Female;20800 to 28600;Widowed;1;British;Degree;South East;No;
+64;NA;NA;7;White;Male;Above 36400;Married;1;British;Other/Sub Degree;South East;No;
+58;NA;NA;7;White;Female;28600 to 36400;Married;2;English;A Levels;South East;No;
+80;NA;NA;7;White;Female;10400 to 15600;Widowed;2;English;No Qualification;South East;No;
+61;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Higher/Sub Degree;South East;No;
+34;NA;NA;7;White;Female;5200 to 10400;Married;3;Irish;Higher/Sub Degree;South East;No;
+36;3;5;7;White;Female;Under 2600;Married;1;British;GCSE/O Level;South East;Yes;Packets
+34;10;20;7;White;Female;10400 to 15600;Divorced;1;British;GCSE/O Level;South East;Yes;Packets
+40;NA;NA;7;White;Female;Above 36400;Single;2;English;A Levels;South East;No;
+53;NA;NA;7;White;Male;20800 to 28600;Single;2;English;No Qualification;South East;No;
+31;NA;NA;7;White;Female;20800 to 28600;Single;2;English;Degree;South East;No;
+86;NA;NA;7;White;Female;2600 to 5200;Separated;2;English;No Qualification;South East;No;
+46;20;20;7;White;Female;5200 to 10400;Married;2;English;No Qualification;South East;Yes;Packets
+34;NA;NA;7;White;Male;15600 to 20800;Single;6;Scottish;GCSE/O Level;South East;No;
+44;NA;NA;7;White;Female;28600 to 36400;Single;2;English;Degree;South East;No;
+69;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;A Levels;South East;No;
+56;NA;NA;7;White;Female;15600 to 20800;Widowed;1;British;No Qualification;South East;No;
+79;NA;NA;7;White;Male;2600 to 5200;Single;2;English;No Qualification;South East;No;
+41;15;30;7;White;Female;5200 to 10400;Separated;2;English;GCSE/CSE;South East;Yes;Packets
+34;15;30;7;White;Male;Above 36400;Divorced;2;English;ONC/BTEC;South East;Yes;Packets
+47;40;40;7;White;Male;2600 to 5200;Single;2;English;GCSE/CSE;South East;Yes;Packets
+46;NA;NA;7;White;Male;15600 to 20800;Married;1;British;No Qualification;South East;No;
+30;NA;NA;7;White;Female;10400 to 15600;Single;2;English;No Qualification;South East;No;
+19;NA;NA;7;White;Female;5200 to 10400;Single;2;English;A Levels;South East;No;
+45;NA;NA;7;White;Male;28600 to 36400;Married;8;Welsh;Degree;South East;No;
+24;NA;NA;7;White;Female;10400 to 15600;Single;4;Other;Higher/Sub Degree;South East;No;
+42;NA;NA;7;White;Male;20800 to 28600;Married;2;English;GCSE/O Level;South East;No;
+32;NA;NA;7;White;Male;15600 to 20800;Married;2;English;Other/Sub Degree;South East;No;
+32;20;20;7;White;Male;10400 to 15600;Single;2;English;GCSE/CSE;South East;Yes;Packets
+28;5;5;7;White;Female;Under 2600;Single;1;British;A Levels;South East;Yes;Packets
+78;NA;NA;7;White;Female;10400 to 15600;Widowed;1;British;No Qualification;South East;No;
+42;20;20;7;White;Male;15600 to 20800;Divorced;2;English;GCSE/O Level;South East;Yes;Hand-Rolled
+27;NA;NA;7;White;Female;28600 to 36400;Married;2;English;Degree;South East;No;
+57;NA;NA;7;White;Female;Refused;Married;2;English;Other/Sub Degree;South East;No;
+24;NA;NA;5;Refused;Female;Refused;Single;5;Refused;Degree;South East;No;
+71;NA;NA;7;White;Female;2600 to 5200;Married;2;English;GCSE/O Level;South East;No;
+51;NA;NA;7;White;Male;20800 to 28600;Married;2;English;GCSE/O Level;South East;No;
+66;NA;NA;7;White;Male;10400 to 15600;Widowed;2;English;No Qualification;South East;No;
+73;NA;NA;7;White;Female;2600 to 5200;Separated;1;British;No Qualification;South East;No;
+18;10;10;5;Refused;Male;Refused;Single;5;Refused;No Qualification;South East;Yes;Packets
+50;5;10;7;White;Male;20800 to 28600;Divorced;2;English;A Levels;South East;Yes;Packets
+79;5;5;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;South East;Yes;Packets
+22;5;10;7;White;Female;Under 2600;Single;2;English;GCSE/O Level;South East;Yes;Packets
+45;NA;NA;7;White;Male;10400 to 15600;Divorced;2;English;No Qualification;South East;No;
+53;NA;NA;7;White;Female;Refused;Married;2;English;No Qualification;South East;No;
+77;15;15;7;White;Male;2600 to 5200;Married;2;English;No Qualification;South East;Yes;Packets
+64;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;South East;No;
+39;NA;NA;7;White;Male;Under 2600;Married;1;British;A Levels;South East;No;
+54;20;10;7;White;Male;5200 to 10400;Widowed;2;English;No Qualification;South East;Yes;Both/Mainly Packets
+17;NA;NA;7;White;Male;Refused;Single;2;English;GCSE/CSE;South East;No;
+78;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;South East;No;
+50;6;12;7;White;Male;20800 to 28600;Single;1;British;Degree;South East;Yes;Packets
+41;NA;NA;7;White;Male;Above 36400;Married;2;English;Higher/Sub Degree;South East;No;
+48;20;40;4;Mixed;Female;2600 to 5200;Divorced;3;Irish;No Qualification;South East;Yes;Packets
+25;NA;NA;7;White;Male;15600 to 20800;Married;2;English;GCSE/O Level;South East;No;
+18;NA;NA;7;White;Male;2600 to 5200;Married;1;British;ONC/BTEC;South East;No;
+58;NA;NA;7;White;Female;10400 to 15600;Married;2;English;GCSE/O Level;South East;No;
+79;NA;NA;7;White;Female;20800 to 28600;Widowed;2;English;Higher/Sub Degree;South East;No;
+62;10;10;7;White;Male;2600 to 5200;Married;2;English;No Qualification;South East;Yes;Hand-Rolled
+36;NA;NA;7;White;Female;Under 2600;Married;1;British;GCSE/CSE;South East;No;
+38;NA;NA;7;White;Female;5200 to 10400;Divorced;2;English;No Qualification;South East;No;
+19;NA;NA;7;White;Male;10400 to 15600;Single;1;British;Other/Sub Degree;South East;No;
+45;NA;NA;7;White;Female;5200 to 10400;Separated;2;English;No Qualification;South East;No;
+54;NA;NA;7;White;Male;Above 36400;Married;2;English;Degree;South East;No;
+69;NA;NA;7;White;Female;15600 to 20800;Widowed;6;Scottish;GCSE/O Level;South East;No;
+65;NA;NA;7;White;Female;10400 to 15600;Widowed;1;British;Higher/Sub Degree;South East;No;
+31;NA;NA;7;White;Male;20800 to 28600;Married;2;English;GCSE/CSE;South East;No;
+31;NA;NA;7;White;Female;2600 to 5200;Married;1;British;Degree;South East;No;
+46;20;20;7;White;Female;2600 to 5200;Single;2;English;No Qualification;South East;Yes;Packets
+37;NA;NA;7;White;Male;20800 to 28600;Single;4;Other;ONC/BTEC;South East;No;
+72;NA;NA;7;White;Female;Unknown;Married;2;English;No Qualification;South East;No;
+59;NA;NA;7;White;Male;20800 to 28600;Married;2;English;GCSE/O Level;South East;No;
+82;NA;NA;7;White;Female;Refused;Widowed;2;English;GCSE/O Level;South East;No;
+81;NA;NA;7;White;Male;28600 to 36400;Widowed;2;English;Degree;South East;No;
+65;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;GCSE/O Level;South East;No;
+48;5;5;7;White;Female;15600 to 20800;Divorced;2;English;No Qualification;South East;Yes;Hand-Rolled
+49;10;15;7;White;Male;Above 36400;Divorced;1;British;ONC/BTEC;South East;Yes;Packets
+35;40;60;7;White;Male;2600 to 5200;Single;1;British;GCSE/O Level;South East;Yes;Packets
+73;NA;NA;7;White;Female;5200 to 10400;Married;2;English;No Qualification;South East;No;
+80;NA;NA;7;White;Female;5200 to 10400;Divorced;1;British;No Qualification;South East;No;
+55;NA;NA;7;White;Male;28600 to 36400;Married;2;English;ONC/BTEC;South East;No;
+78;NA;NA;7;White;Male;Refused;Widowed;2;English;No Qualification;South East;No;
+45;20;20;7;White;Female;Refused;Single;2;English;GCSE/O Level;South East;Yes;Packets
+39;10;20;7;White;Male;20800 to 28600;Married;2;English;A Levels;South East;Yes;Packets
+75;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;South East;No;
+65;NA;NA;3;Chinese;Male;5200 to 10400;Married;2;English;Other/Sub Degree;South East;No;
+79;NA;NA;5;Refused;Male;2600 to 5200;Divorced;5;Refused;No Qualification;South East;No;
+75;NA;NA;3;Chinese;Male;20800 to 28600;Married;2;English;GCSE/O Level;South East;No;
+69;NA;NA;7;White;Female;5200 to 10400;Married;1;British;No Qualification;South East;No;
+57;NA;NA;7;White;Female;15600 to 20800;Single;1;British;No Qualification;South East;No;
+29;NA;NA;7;White;Female;20800 to 28600;Single;2;English;Degree;South East;No;
+54;30;30;7;White;Male;20800 to 28600;Married;2;English;No Qualification;South East;Yes;Packets
+29;NA;NA;7;White;Male;20800 to 28600;Married;1;British;Degree;South East;No;
+42;NA;NA;7;White;Male;10400 to 15600;Divorced;1;British;No Qualification;South East;No;
+28;5;5;7;White;Male;15600 to 20800;Single;1;British;Degree;South East;Yes;Hand-Rolled
+65;NA;NA;7;White;Female;15600 to 20800;Widowed;1;British;No Qualification;South East;No;
+37;4;0;7;White;Male;Above 36400;Married;2;English;Degree;South East;Yes;Packets
+35;NA;NA;7;White;Female;5200 to 10400;Single;2;English;Degree;South East;No;
+33;6;10;4;Mixed;Female;15600 to 20800;Single;2;English;Degree;South East;Yes;Both/Mainly Packets
+52;40;40;7;White;Male;5200 to 10400;Married;4;Other;Degree;South East;Yes;Packets
+57;NA;NA;7;White;Male;20800 to 28600;Single;1;British;Higher/Sub Degree;South East;No;
+31;NA;NA;7;White;Female;15600 to 20800;Single;2;English;Degree;South East;No;
+73;NA;NA;7;White;Male;5200 to 10400;Married;1;British;No Qualification;South East;No;
+43;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;South East;No;
+38;NA;NA;2;Black;Male;28600 to 36400;Single;2;English;Degree;South East;No;
+43;12;12;7;White;Female;Above 36400;Married;1;British;No Qualification;South East;Yes;Packets
+55;NA;NA;7;White;Female;20800 to 28600;Married;2;English;Higher/Sub Degree;South East;No;
+59;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;South East;No;
+33;NA;NA;7;White;Female;20800 to 28600;Married;1;British;Degree;South East;No;
+41;20;20;7;White;Female;5200 to 10400;Married;1;British;GCSE/O Level;South East;Yes;Packets
+46;20;20;7;White;Female;5200 to 10400;Married;1;British;GCSE/CSE;South East;Yes;Packets
+57;35;35;7;White;Male;Above 36400;Married;1;British;Degree;South East;Yes;Packets
+40;NA;NA;7;White;Male;15600 to 20800;Single;2;English;A Levels;South East;No;
+57;NA;NA;7;White;Male;5200 to 10400;Married;2;English;GCSE/O Level;South East;No;
+39;7;10;7;White;Female;10400 to 15600;Married;1;British;GCSE/O Level;South East;Yes;Packets
+67;5;5;7;White;Male;5200 to 10400;Married;1;British;Other/Sub Degree;South East;Yes;Hand-Rolled
+46;NA;NA;7;White;Female;2600 to 5200;Single;2;English;No Qualification;South East;No;
+39;NA;NA;7;White;Male;28600 to 36400;Married;1;British;Higher/Sub Degree;South East;No;
+55;NA;NA;7;White;Female;Refused;Married;1;British;GCSE/O Level;South East;No;
+50;10;15;7;White;Male;15600 to 20800;Married;2;English;Other/Sub Degree;South East;Yes;Hand-Rolled
+70;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;ONC/BTEC;South East;No;
+44;NA;NA;7;White;Female;Under 2600;Married;4;Other;Higher/Sub Degree;South East;No;
+33;NA;NA;7;White;Female;Under 2600;Married;2;English;ONC/BTEC;South East;No;
+69;NA;NA;7;White;Male;5200 to 10400;Divorced;2;English;Other/Sub Degree;South East;No;
+70;10;10;7;White;Female;Under 2600;Married;2;English;No Qualification;South East;Yes;Packets
+62;NA;NA;7;White;Female;Refused;Widowed;1;British;No Qualification;South East;No;
+31;NA;NA;7;White;Female;Under 2600;Married;1;British;GCSE/O Level;South East;No;
+70;NA;NA;7;White;Male;10400 to 15600;Married;2;English;Other/Sub Degree;South East;No;
+32;NA;NA;7;White;Male;28600 to 36400;Married;1;British;No Qualification;South East;No;
+75;NA;NA;7;White;Female;Refused;Divorced;1;British;A Levels;South East;No;
+47;NA;NA;7;White;Male;20800 to 28600;Married;1;British;Higher/Sub Degree;South East;No;
+57;NA;NA;7;White;Male;20800 to 28600;Married;2;English;No Qualification;South East;No;
+86;NA;NA;7;White;Male;5200 to 10400;Widowed;2;English;No Qualification;South East;No;
+32;NA;NA;7;White;Female;2600 to 5200;Single;2;English;GCSE/O Level;South East;No;
+46;15;15;7;White;Male;10400 to 15600;Single;1;British;GCSE/O Level;South East;Yes;Packets
+51;10;10;7;White;Male;Under 2600;Single;2;English;No Qualification;South East;Yes;Packets
+69;NA;NA;7;White;Female;10400 to 15600;Married;2;English;GCSE/O Level;South East;No;
+73;NA;NA;7;White;Female;2600 to 5200;Married;1;British;GCSE/O Level;South East;No;
+32;20;20;7;White;Female;15600 to 20800;Single;2;English;Higher/Sub Degree;South East;Yes;Packets
+75;NA;NA;7;White;Female;Unknown;Married;2;English;GCSE/O Level;South East;No;
+54;25;25;7;White;Female;20800 to 28600;Widowed;2;English;GCSE/CSE;South East;Yes;Packets
+51;NA;NA;7;White;Female;10400 to 15600;Married;2;English;Higher/Sub Degree;South East;No;
+35;NA;NA;7;White;Female;10400 to 15600;Married;1;British;Degree;South East;No;
+38;NA;NA;7;White;Male;Above 36400;Married;2;English;Degree;South East;No;
+72;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;South East;No;
+66;NA;NA;7;White;Female;Refused;Married;2;English;A Levels;South East;No;
+59;NA;NA;7;White;Female;2600 to 5200;Married;2;English;GCSE/CSE;South East;No;
+70;NA;NA;7;White;Male;20800 to 28600;Married;1;British;Degree;South East;No;
+44;NA;NA;7;White;Male;Refused;Single;2;English;GCSE/CSE;South East;No;
+67;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/CSE;South East;No;
+35;NA;NA;7;White;Male;20800 to 28600;Married;2;English;GCSE/O Level;South East;No;
+33;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;South East;No;
+17;NA;NA;7;White;Male;2600 to 5200;Single;2;English;GCSE/CSE;South East;No;
+45;NA;NA;7;White;Female;Under 2600;Married;1;British;GCSE/O Level;South East;No;
+57;NA;NA;7;White;Female;5200 to 10400;Married;1;British;GCSE/O Level;South East;No;
+18;NA;NA;7;White;Female;Under 2600;Single;1;British;A Levels;South East;No;
+68;NA;NA;7;White;Male;15600 to 20800;Separated;2;English;A Levels;South East;No;
+27;15;12;7;White;Female;15600 to 20800;Single;4;Other;Higher/Sub Degree;South East;Yes;Hand-Rolled
+40;18;30;7;White;Female;Under 2600;Married;1;British;GCSE/CSE;South East;Yes;Packets
+77;NA;NA;7;White;Male;5200 to 10400;Single;2;English;GCSE/CSE;South East;No;
+77;NA;NA;7;White;Female;2600 to 5200;Married;1;British;GCSE/O Level;South East;No;
+75;NA;NA;7;White;Male;Above 36400;Married;2;English;ONC/BTEC;South East;No;
+39;15;15;7;White;Male;15600 to 20800;Married;1;British;ONC/BTEC;South East;Yes;Packets
+21;NA;NA;7;White;Female;2600 to 5200;Single;1;British;GCSE/O Level;South East;No;
+59;NA;NA;7;White;Female;5200 to 10400;Divorced;1;British;Degree;South East;No;
+27;NA;NA;7;White;Male;20800 to 28600;Single;1;British;GCSE/CSE;South East;No;
+67;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;South East;No;
+50;NA;NA;7;White;Female;20800 to 28600;Single;2;English;Higher/Sub Degree;South East;No;
+64;NA;NA;7;White;Female;5200 to 10400;Divorced;2;English;GCSE/O Level;South East;No;
+79;NA;NA;3;Chinese;Female;5200 to 10400;Widowed;2;English;No Qualification;South East;No;
+31;20;10;7;White;Male;10400 to 15600;Single;2;English;GCSE/O Level;South East;Yes;Both/Mainly Packets
+19;NA;NA;3;Chinese;Female;10400 to 15600;Single;1;British;A Levels;South East;No;
+42;NA;NA;7;White;Male;28600 to 36400;Married;1;British;Degree;South East;No;
+36;NA;NA;7;White;Male;5200 to 10400;Married;2;English;GCSE/CSE;South East;No;
+36;NA;NA;7;White;Male;20800 to 28600;Married;2;English;GCSE/CSE;South East;No;
+64;NA;NA;7;White;Female;2600 to 5200;Widowed;1;British;GCSE/O Level;South East;No;
+53;NA;NA;7;White;Female;5200 to 10400;Single;2;English;No Qualification;South East;No;
+39;20;20;7;White;Female;15600 to 20800;Married;3;Irish;GCSE/CSE;South East;Yes;Packets
+39;NA;NA;7;White;Female;28600 to 36400;Married;2;English;Degree;South East;No;
+28;7;7;7;White;Female;5200 to 10400;Married;1;British;Degree;South East;Yes;Packets
+81;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;South East;No;
+79;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;South East;No;
+72;NA;NA;7;White;Female;5200 to 10400;Married;2;English;No Qualification;South East;No;
+18;25;25;7;White;Female;2600 to 5200;Single;2;English;GCSE/O Level;South East;Yes;Both/Mainly Hand-Rolled
+76;NA;NA;7;White;Female;2600 to 5200;Married;1;British;No Qualification;South East;No;
+68;8;8;7;White;Female;5200 to 10400;Widowed;1;British;No Qualification;South East;Yes;Packets
+28;15;20;7;White;Female;10400 to 15600;Single;2;English;GCSE/CSE;South East;Yes;Packets
+42;NA;NA;7;White;Female;2600 to 5200;Divorced;2;English;GCSE/O Level;South East;No;
+26;15;15;7;White;Female;5200 to 10400;Single;1;British;GCSE/O Level;South East;Yes;Both/Mainly Packets
+19;5;5;7;White;Female;2600 to 5200;Single;8;Welsh;No Qualification;South East;Yes;Packets
+41;30;30;7;White;Female;5200 to 10400;Divorced;8;Welsh;Other/Sub Degree;South East;Yes;Packets
+82;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;South East;No;
+36;NA;NA;1;Asian;Male;15600 to 20800;Married;1;British;Degree;South East;No;
+47;25;25;7;White;Male;5200 to 10400;Single;2;English;No Qualification;South East;Yes;Both/Mainly Hand-Rolled
+77;NA;NA;7;White;Male;5200 to 10400;Widowed;6;Scottish;Other/Sub Degree;South East;No;
+66;NA;NA;7;White;Female;Under 2600;Divorced;2;English;No Qualification;South East;No;
+50;15;15;7;White;Male;5200 to 10400;Divorced;2;English;Other/Sub Degree;South East;Yes;Hand-Rolled
+55;NA;NA;7;White;Female;5200 to 10400;Divorced;2;English;No Qualification;South East;No;
+36;0;10;7;White;Female;Under 2600;Married;2;English;A Levels;South West;Yes;Packets
+79;NA;NA;7;White;Male;Unknown;Married;3;Irish;No Qualification;South West;No;
+67;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;South West;No;
+42;NA;NA;7;White;Female;Refused;Single;1;British;A Levels;South West;No;
+76;NA;NA;7;White;Female;Under 2600;Married;1;British;No Qualification;South West;No;
+44;NA;NA;7;White;Female;15600 to 20800;Married;1;British;Other/Sub Degree;South West;No;
+75;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;South West;No;
+24;NA;NA;7;White;Female;10400 to 15600;Married;1;British;Other/Sub Degree;South West;No;
+78;NA;NA;7;White;Male;5200 to 10400;Married;2;English;Other/Sub Degree;South West;No;
+38;NA;NA;7;White;Female;5200 to 10400;Married;1;British;ONC/BTEC;South West;No;
+22;NA;NA;7;White;Male;5200 to 10400;Single;2;English;Other/Sub Degree;South West;No;
+62;NA;NA;7;White;Female;2600 to 5200;Married;2;English;Other/Sub Degree;South West;No;
+40;5;10;7;White;Female;5200 to 10400;Divorced;1;British;No Qualification;South West;Yes;Packets
+35;NA;NA;7;White;Male;20800 to 28600;Married;1;British;Degree;South West;No;
+45;NA;NA;7;White;Female;5200 to 10400;Married;1;British;ONC/BTEC;South West;No;
+66;NA;NA;7;White;Female;2600 to 5200;Married;1;British;No Qualification;South West;No;
+53;NA;NA;7;White;Female;5200 to 10400;Divorced;2;English;Higher/Sub Degree;South West;No;
+43;0;5;7;White;Female;10400 to 15600;Divorced;2;English;GCSE/O Level;South West;Yes;Packets
+72;3;3;7;White;Female;2600 to 5200;Widowed;1;British;No Qualification;South West;Yes;Packets
+72;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;South West;No;
+67;NA;NA;7;White;Female;10400 to 15600;Married;2;English;Higher/Sub Degree;South West;No;
+37;NA;NA;7;White;Female;5200 to 10400;Divorced;1;British;GCSE/O Level;South West;No;
+38;NA;NA;7;White;Male;10400 to 15600;Married;2;English;ONC/BTEC;South West;No;
+39;6;10;7;White;Female;10400 to 15600;Married;2;English;GCSE/O Level;South West;Yes;Both/Mainly Packets
+64;NA;NA;7;White;Male;5200 to 10400;Divorced;2;English;No Qualification;South West;No;
+72;NA;NA;7;White;Male;2600 to 5200;Married;2;English;No Qualification;South West;No;
+54;20;20;7;White;Male;10400 to 15600;Married;2;English;GCSE/O Level;South West;Yes;Packets
+59;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;South West;No;
+50;NA;NA;7;White;Female;10400 to 15600;Married;2;English;ONC/BTEC;South West;No;
+33;NA;NA;7;White;Male;Above 36400;Married;2;English;GCSE/O Level;South West;No;
+45;NA;NA;7;White;Female;20800 to 28600;Married;2;English;Higher/Sub Degree;South West;No;
+73;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;South West;No;
+68;NA;NA;7;White;Male;15600 to 20800;Married;1;British;Degree;South West;No;
+33;NA;NA;7;White;Female;10400 to 15600;Married;1;British;GCSE/O Level;South West;No;
+21;NA;NA;7;White;Female;2600 to 5200;Single;1;British;ONC/BTEC;South West;No;
+32;NA;NA;7;White;Female;20800 to 28600;Married;2;English;Degree;South West;No;
+37;NA;NA;7;White;Male;15600 to 20800;Married;1;British;Other/Sub Degree;South West;No;
+48;10;10;7;White;Female;Refused;Single;2;English;Degree;South West;Yes;Hand-Rolled
+25;20;40;7;White;Male;15600 to 20800;Single;1;British;No Qualification;South West;Yes;Packets
+61;10;30;7;White;Male;5200 to 10400;Married;2;English;No Qualification;South West;Yes;Hand-Rolled
+86;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;South West;No;
+45;NA;NA;7;White;Female;5200 to 10400;Married;2;English;No Qualification;South West;No;
+60;NA;NA;7;White;Female;10400 to 15600;Divorced;2;English;GCSE/O Level;South West;No;
+40;NA;NA;7;White;Female;15600 to 20800;Single;1;British;Degree;South West;No;
+55;NA;NA;7;White;Male;Refused;Married;1;British;No Qualification;South West;No;
+53;NA;NA;7;White;Male;10400 to 15600;Separated;8;Welsh;GCSE/O Level;South West;No;
+41;NA;NA;7;White;Male;2600 to 5200;Married;2;English;GCSE/O Level;South West;No;
+17;10;20;7;White;Female;Under 2600;Single;2;English;GCSE/O Level;South West;Yes;Both/Mainly Packets
+42;NA;NA;7;White;Female;15600 to 20800;Divorced;2;English;Higher/Sub Degree;South West;No;
+44;NA;NA;7;White;Male;20800 to 28600;Married;2;English;GCSE/O Level;South West;No;
+43;NA;NA;7;White;Female;10400 to 15600;Married;2;English;A Levels;South West;No;
+39;20;20;7;White;Female;2600 to 5200;Married;4;Other;Other/Sub Degree;South West;Yes;Packets
+67;NA;NA;7;White;Male;10400 to 15600;Married;2;English;No Qualification;South West;No;
+73;NA;NA;7;White;Female;Under 2600;Married;1;British;No Qualification;South West;No;
+16;NA;NA;7;White;Female;2600 to 5200;Single;2;English;GCSE/O Level;South West;No;
+73;NA;NA;7;White;Female;10400 to 15600;Widowed;1;British;No Qualification;South West;No;
+52;NA;NA;7;White;Male;Above 36400;Married;6;Scottish;Degree;South West;No;
+72;NA;NA;7;White;Male;5200 to 10400;Single;2;English;No Qualification;South West;No;
+79;NA;NA;7;White;Male;10400 to 15600;Married;1;British;No Qualification;South West;No;
+90;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;South West;No;
+27;10;30;7;White;Male;20800 to 28600;Single;2;English;Higher/Sub Degree;South West;Yes;Packets
+32;NA;NA;7;White;Male;Above 36400;Divorced;2;English;Degree;South West;No;
+38;NA;NA;7;White;Female;5200 to 10400;Divorced;2;English;GCSE/O Level;South West;No;
+21;NA;NA;7;White;Female;Under 2600;Single;1;British;Degree;South West;No;
+40;NA;NA;7;White;Male;Above 36400;Married;1;British;A Levels;South West;No;
+28;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;South West;No;
+47;40;40;7;White;Male;Above 36400;Married;2;English;A Levels;South West;Yes;Packets
+45;NA;NA;7;White;Female;5200 to 10400;Married;1;British;Degree;South West;No;
+95;NA;NA;7;White;Female;5200 to 10400;Widowed;1;British;No Qualification;South West;No;
+18;NA;NA;7;White;Male;2600 to 5200;Single;2;English;A Levels;South West;No;
+89;NA;NA;7;White;Female;Unknown;Widowed;2;English;GCSE/O Level;South West;No;
+82;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;No Qualification;South West;No;
+65;NA;NA;7;White;Male;28600 to 36400;Married;2;English;A Levels;South West;No;
+87;NA;NA;7;White;Female;5200 to 10400;Widowed;2;English;GCSE/O Level;South West;No;
+30;1;4;7;White;Male;20800 to 28600;Single;2;English;Higher/Sub Degree;South West;Yes;Packets
+77;NA;NA;7;White;Female;28600 to 36400;Widowed;2;English;Degree;South West;No;
+55;NA;NA;7;White;Female;Above 36400;Divorced;1;British;Degree;South West;No;
+33;NA;NA;1;Asian;Female;5200 to 10400;Married;1;British;Degree;South West;No;
+56;NA;NA;2;Black;Female;5200 to 10400;Married;1;British;No Qualification;South West;No;
+68;10;15;7;White;Female;2600 to 5200;Divorced;2;English;No Qualification;South West;Yes;Packets
+73;NA;NA;7;White;Female;2600 to 5200;Married;1;British;No Qualification;South West;No;
+66;NA;NA;7;White;Female;10400 to 15600;Single;2;English;GCSE/O Level;South West;No;
+73;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Other/Sub Degree;South West;No;
+42;0;12;7;White;Male;20800 to 28600;Married;2;English;Higher/Sub Degree;South West;Yes;Packets
+41;NA;NA;7;White;Male;Refused;Single;8;Welsh;No Qualification;South West;No;
+35;NA;NA;7;White;Female;10400 to 15600;Married;1;British;GCSE/CSE;South West;No;
+53;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;South West;No;
+74;NA;NA;7;White;Female;5200 to 10400;Divorced;2;English;No Qualification;South West;No;
+46;25;25;7;White;Male;10400 to 15600;Married;2;English;No Qualification;South West;Yes;Hand-Rolled
+22;NA;NA;7;White;Female;2600 to 5200;Single;2;English;GCSE/CSE;South West;No;
+27;NA;NA;7;White;Male;15600 to 20800;Married;2;English;A Levels;South West;No;
+71;NA;NA;7;White;Female;5200 to 10400;Married;1;British;GCSE/O Level;South West;No;
+78;NA;NA;7;White;Male;5200 to 10400;Widowed;2;English;Other/Sub Degree;South West;No;
+38;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;South West;No;
+31;NA;NA;7;White;Female;10400 to 15600;Married;1;British;A Levels;South West;No;
+54;NA;NA;7;White;Female;2600 to 5200;Married;2;English;Degree;South West;No;
+31;NA;NA;7;White;Female;10400 to 15600;Single;2;English;GCSE/CSE;South West;No;
+53;NA;NA;4;Mixed;Male;Above 36400;Married;2;English;ONC/BTEC;South West;No;
+36;20;20;7;White;Female;2600 to 5200;Single;2;English;GCSE/O Level;South West;Yes;Both/Mainly Packets
+41;NA;NA;7;White;Male;15600 to 20800;Married;2;English;Other/Sub Degree;South West;No;
+78;12;15;7;White;Male;5200 to 10400;Widowed;1;British;No Qualification;South West;Yes;Packets
+54;10;10;7;White;Female;2600 to 5200;Divorced;1;British;GCSE/O Level;South West;Yes;Packets
+72;NA;NA;7;White;Female;2600 to 5200;Divorced;1;British;No Qualification;South West;No;
+28;20;20;7;White;Male;20800 to 28600;Married;2;English;Other/Sub Degree;South West;Yes;Hand-Rolled
+41;15;20;7;White;Female;5200 to 10400;Separated;1;British;GCSE/O Level;South West;Yes;Both/Mainly Packets
+78;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;South West;No;
+71;NA;NA;7;White;Male;5200 to 10400;Widowed;8;Welsh;No Qualification;South West;No;
+57;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Other/Sub Degree;South West;No;
+31;5;1;7;White;Male;15600 to 20800;Married;1;British;GCSE/O Level;South West;Yes;Packets
+64;NA;NA;7;White;Female;5200 to 10400;Widowed;3;Irish;No Qualification;South West;No;
+65;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;South West;No;
+61;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;South West;No;
+33;NA;NA;7;White;Male;20800 to 28600;Married;2;English;GCSE/CSE;South West;No;
+60;20;20;7;White;Female;Refused;Married;2;English;ONC/BTEC;South West;Yes;Packets
+40;NA;NA;7;White;Male;15600 to 20800;Married;1;British;Higher/Sub Degree;South West;No;
+68;NA;NA;7;White;Female;5200 to 10400;Married;2;English;Other/Sub Degree;South West;No;
+36;NA;NA;7;White;Female;15600 to 20800;Married;2;English;No Qualification;South West;No;
+35;NA;NA;7;White;Female;Under 2600;Married;2;English;GCSE/O Level;South West;No;
+22;5;20;7;White;Male;20800 to 28600;Single;2;English;GCSE/CSE;South West;Yes;Packets
+43;NA;NA;7;White;Female;2600 to 5200;Married;2;English;GCSE/CSE;South West;No;
+84;NA;NA;7;White;Male;5200 to 10400;Widowed;2;English;No Qualification;South West;No;
+24;NA;NA;7;White;Female;5200 to 10400;Single;1;British;No Qualification;South West;No;
+68;12;25;7;White;Male;5200 to 10400;Married;2;English;No Qualification;South West;Yes;Hand-Rolled
+35;10;10;7;White;Male;Under 2600;Single;1;British;Other/Sub Degree;South West;Yes;Packets
+51;25;25;7;White;Female;Unknown;Divorced;2;English;Other/Sub Degree;South West;Yes;Packets
+45;NA;NA;7;White;Male;28600 to 36400;Married;1;British;ONC/BTEC;South West;No;
+45;5;5;7;White;Female;Refused;Single;2;English;No Qualification;South West;Yes;Packets
+71;NA;NA;7;White;Male;10400 to 15600;Married;2;English;No Qualification;South West;No;
+47;15;20;7;White;Female;5200 to 10400;Married;1;British;No Qualification;South West;Yes;Packets
+39;NA;NA;7;White;Female;10400 to 15600;Married;1;British;Higher/Sub Degree;South West;No;
+62;NA;NA;7;White;Male;2600 to 5200;Married;2;English;Higher/Sub Degree;South West;No;
+37;NA;NA;7;White;Female;15600 to 20800;Single;1;British;Degree;South West;No;
+71;NA;NA;7;White;Female;Refused;Married;2;English;No Qualification;South West;No;
+49;NA;NA;7;White;Male;28600 to 36400;Divorced;2;English;Degree;South West;No;
+22;20;30;7;White;Female;2600 to 5200;Single;1;British;GCSE/CSE;South West;Yes;Both/Mainly Packets
+61;NA;NA;7;White;Male;Under 2600;Married;2;English;No Qualification;South West;No;
+34;5;10;7;White;Male;20800 to 28600;Single;1;British;GCSE/O Level;South West;Yes;Packets
+40;NA;NA;7;White;Female;Above 36400;Separated;1;British;Degree;South West;No;
+27;20;20;7;White;Female;2600 to 5200;Separated;2;English;No Qualification;South West;Yes;Both/Mainly Packets
+28;12;12;7;White;Male;10400 to 15600;Single;2;English;ONC/BTEC;South West;Yes;Packets
+28;NA;NA;7;White;Female;10400 to 15600;Single;1;British;A Levels;South West;No;
+36;30;20;7;White;Male;20800 to 28600;Married;2;English;GCSE/CSE;South West;Yes;Both/Mainly Packets
+34;20;20;7;White;Female;5200 to 10400;Single;2;English;GCSE/O Level;South West;Yes;Hand-Rolled
+19;NA;NA;7;White;Male;10400 to 15600;Single;2;English;A Levels;South West;No;
+31;20;20;7;White;Female;15600 to 20800;Divorced;2;English;GCSE/O Level;South West;Yes;Packets
+49;20;20;7;White;Male;Refused;Divorced;2;English;No Qualification;South West;Yes;Hand-Rolled
+42;50;50;7;White;Male;2600 to 5200;Divorced;3;Irish;A Levels;South West;Yes;Hand-Rolled
+38;NA;NA;7;White;Female;Under 2600;Married;2;English;No Qualification;South West;No;
+16;6;6;7;White;Male;Under 2600;Single;2;English;No Qualification;South West;Yes;Both/Mainly Packets
+73;NA;NA;7;White;Male;5200 to 10400;Married;1;British;No Qualification;South West;No;
+36;NA;NA;1;Asian;Male;15600 to 20800;Married;2;English;GCSE/O Level;South West;No;
+81;NA;NA;7;White;Female;Under 2600;Married;8;Welsh;No Qualification;South West;No;
+97;NA;NA;7;White;Female;10400 to 15600;Widowed;2;English;No Qualification;South West;No;
+38;NA;NA;7;White;Male;10400 to 15600;Married;2;English;No Qualification;South West;No;
+46;7;12;7;White;Female;5200 to 10400;Married;1;British;Other/Sub Degree;South West;Yes;Packets
+79;NA;NA;7;White;Male;5200 to 10400;Married;2;English;No Qualification;South West;No;
+76;4;4;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;South West;Yes;Packets
+54;NA;NA;7;White;Female;2600 to 5200;Widowed;3;Irish;No Qualification;Wales;No;
+59;NA;NA;7;White;Male;Above 36400;Married;2;English;Degree;Wales;No;
+52;NA;NA;7;White;Male;Above 36400;Separated;1;British;Degree;Wales;No;
+58;20;20;7;White;Male;5200 to 10400;Divorced;8;Welsh;No Qualification;Wales;Yes;Both/Mainly Packets
+69;NA;NA;7;White;Male;15600 to 20800;Divorced;8;Welsh;Degree;Wales;No;
+67;NA;NA;7;White;Male;5200 to 10400;Widowed;8;Welsh;Degree;Wales;No;
+76;NA;NA;7;White;Female;Refused;Married;8;Welsh;Other/Sub Degree;Wales;No;
+33;NA;NA;1;Asian;Male;5200 to 10400;Married;1;British;No Qualification;Wales;No;
+61;30;30;7;White;Male;Refused;Separated;8;Welsh;No Qualification;Wales;Yes;Hand-Rolled
+82;NA;NA;7;White;Female;Refused;Widowed;8;Welsh;No Qualification;Wales;No;
+62;NA;NA;7;White;Male;5200 to 10400;Married;8;Welsh;No Qualification;Wales;No;
+66;NA;NA;7;White;Male;Refused;Divorced;8;Welsh;No Qualification;Wales;No;
+69;NA;NA;7;White;Female;Under 2600;Widowed;8;Welsh;No Qualification;Wales;No;
+25;NA;NA;1;Asian;Female;Refused;Married;4;Other;No Qualification;Wales;No;
+29;NA;NA;7;White;Male;20800 to 28600;Single;8;Welsh;Degree;Wales;No;
+28;NA;NA;7;White;Male;10400 to 15600;Married;1;British;Degree;Wales;No;
+52;NA;NA;7;White;Female;28600 to 36400;Single;4;Other;Degree;Wales;No;
+81;NA;NA;7;White;Female;Refused;Widowed;8;Welsh;No Qualification;Wales;No;
+44;20;20;7;White;Female;10400 to 15600;Married;8;Welsh;GCSE/O Level;Wales;Yes;Packets
+62;NA;NA;7;White;Female;Refused;Married;8;Welsh;GCSE/O Level;Wales;No;
+45;NA;NA;7;White;Male;2600 to 5200;Married;8;Welsh;No Qualification;Wales;No;
+71;NA;NA;7;White;Female;5200 to 10400;Widowed;8;Welsh;No Qualification;Wales;No;
+72;NA;NA;7;White;Female;2600 to 5200;Married;8;Welsh;No Qualification;Wales;No;
+69;15;15;7;White;Female;Unknown;Widowed;2;English;No Qualification;Wales;Yes;Packets
+72;10;10;7;White;Female;2600 to 5200;Widowed;8;Welsh;No Qualification;Wales;Yes;Packets
+61;NA;NA;7;White;Male;5200 to 10400;Married;8;Welsh;No Qualification;Wales;No;
+29;2;5;7;White;Female;2600 to 5200;Married;1;British;A Levels;Wales;Yes;Packets
+37;30;30;7;White;Female;5200 to 10400;Single;1;British;Higher/Sub Degree;Wales;Yes;Packets
+29;20;20;7;White;Male;15600 to 20800;Single;8;Welsh;GCSE/O Level;Wales;Yes;Packets
+57;NA;NA;7;White;Male;10400 to 15600;Married;2;English;No Qualification;Wales;No;
+60;NA;NA;7;White;Male;5200 to 10400;Married;8;Welsh;GCSE/O Level;Wales;No;
+38;NA;NA;7;White;Male;28600 to 36400;Married;8;Welsh;Higher/Sub Degree;Wales;No;
+74;NA;NA;7;White;Male;5200 to 10400;Married;8;Welsh;No Qualification;Wales;No;
+38;NA;NA;7;White;Male;10400 to 15600;Married;8;Welsh;Higher/Sub Degree;Wales;No;
+51;NA;NA;7;White;Female;Refused;Divorced;8;Welsh;GCSE/O Level;Wales;No;
+68;15;15;7;White;Male;2600 to 5200;Married;8;Welsh;No Qualification;Wales;Yes;Hand-Rolled
+67;NA;NA;7;White;Male;10400 to 15600;Married;8;Welsh;Higher/Sub Degree;Wales;No;
+32;NA;NA;7;White;Male;10400 to 15600;Single;8;Welsh;GCSE/O Level;Wales;No;
+25;NA;NA;1;Asian;Female;5200 to 10400;Married;1;British;ONC/BTEC;Wales;No;
+53;NA;NA;7;White;Male;15600 to 20800;Married;8;Welsh;No Qualification;Wales;No;
+52;5;5;6;Unknown;Female;5200 to 10400;Divorced;8;Welsh;No Qualification;Wales;Yes;Packets
+21;NA;NA;7;White;Female;2600 to 5200;Single;8;Welsh;No Qualification;Wales;No;
+71;NA;NA;7;White;Female;5200 to 10400;Divorced;8;Welsh;No Qualification;Wales;No;
+30;NA;NA;7;White;Female;Under 2600;Married;1;British;GCSE/O Level;Wales;No;
+23;NA;NA;7;White;Male;15600 to 20800;Single;8;Welsh;GCSE/O Level;Wales;No;
+28;1;0;7;White;Female;10400 to 15600;Single;8;Welsh;Higher/Sub Degree;Wales;Yes;Packets
+37;NA;NA;7;White;Female;5200 to 10400;Married;8;Welsh;GCSE/O Level;Wales;No;
+84;NA;NA;7;White;Female;2600 to 5200;Widowed;8;Welsh;No Qualification;Wales;No;
+61;NA;NA;7;White;Female;2600 to 5200;Married;2;English;No Qualification;Wales;No;
+18;NA;NA;7;White;Female;2600 to 5200;Single;8;Welsh;GCSE/O Level;Wales;No;
+55;NA;NA;7;White;Female;5200 to 10400;Married;2;English;GCSE/O Level;Wales;No;
+52;NA;NA;7;White;Male;20800 to 28600;Single;1;British;Higher/Sub Degree;Wales;No;
+46;25;25;7;White;Female;2600 to 5200;Married;8;Welsh;No Qualification;Wales;Yes;Packets
+46;NA;NA;7;White;Female;10400 to 15600;Married;1;British;Other/Sub Degree;Wales;No;
+23;NA;NA;7;White;Male;2600 to 5200;Single;8;Welsh;No Qualification;Wales;No;
+58;NA;NA;7;White;Male;20800 to 28600;Married;1;British;Degree;Wales;No;
+16;NA;NA;7;White;Male;Under 2600;Single;8;Welsh;GCSE/O Level;Wales;No;
+71;NA;NA;7;White;Male;15600 to 20800;Married;8;Welsh;No Qualification;Wales;No;
+47;10;10;7;White;Female;2600 to 5200;Married;1;British;No Qualification;Wales;Yes;Packets
+34;NA;NA;7;White;Male;20800 to 28600;Married;8;Welsh;Degree;Wales;No;
+55;NA;NA;7;White;Female;Above 36400;Single;1;British;No Qualification;Wales;No;
+78;NA;NA;7;White;Female;20800 to 28600;Widowed;1;British;Other/Sub Degree;Wales;No;
+35;40;40;7;White;Male;2600 to 5200;Single;8;Welsh;No Qualification;Wales;Yes;Hand-Rolled
+68;NA;NA;7;White;Male;20800 to 28600;Married;2;English;No Qualification;Wales;No;
+76;NA;NA;7;White;Male;5200 to 10400;Single;1;British;No Qualification;Wales;No;
+28;NA;NA;7;White;Male;10400 to 15600;Single;8;Welsh;GCSE/CSE;Wales;No;
+36;20;20;7;White;Female;5200 to 10400;Divorced;1;British;GCSE/CSE;Wales;Yes;Both/Mainly Packets
+57;NA;NA;7;White;Female;5200 to 10400;Divorced;2;English;ONC/BTEC;Wales;No;
+29;10;20;7;White;Female;10400 to 15600;Single;8;Welsh;Higher/Sub Degree;Wales;Yes;Both/Mainly Packets
+27;5;5;7;White;Female;5200 to 10400;Single;8;Welsh;GCSE/O Level;Wales;Yes;Packets
+64;NA;NA;7;White;Female;2600 to 5200;Widowed;2;English;No Qualification;Wales;No;
+89;NA;NA;7;White;Female;Refused;Single;8;Welsh;No Qualification;Wales;No;
+26;15;15;7;White;Female;2600 to 5200;Single;8;Welsh;GCSE/CSE;Wales;Yes;Packets
+27;NA;NA;7;White;Male;20800 to 28600;Single;8;Welsh;Higher/Sub Degree;Wales;No;
+66;NA;NA;7;White;Male;10400 to 15600;Single;2;English;Higher/Sub Degree;Wales;No;
+84;NA;NA;7;White;Female;5200 to 10400;Widowed;1;British;No Qualification;Wales;No;
+41;12;20;7;White;Male;20800 to 28600;Single;1;British;Higher/Sub Degree;Wales;Yes;Packets
+27;NA;NA;7;White;Male;15600 to 20800;Single;1;British;Degree;Wales;No;
+40;NA;NA;7;White;Female;10400 to 15600;Divorced;2;English;GCSE/O Level;Wales;No;
+79;NA;NA;7;White;Female;10400 to 15600;Widowed;1;British;No Qualification;Wales;No;
+49;20;20;7;White;Male;20800 to 28600;Married;2;English;No Qualification;Wales;Yes;Packets
+79;NA;NA;7;White;Female;Unknown;Widowed;1;British;No Qualification;Wales;No;
+54;NA;NA;7;White;Female;Under 2600;Married;8;Welsh;No Qualification;Wales;No;
+25;10;10;7;White;Male;5200 to 10400;Single;6;Scottish;GCSE/O Level;Scotland;Yes;Packets
+45;5;5;7;White;Female;28600 to 36400;Single;6;Scottish;Degree;Scotland;Yes;Packets
+24;5;5;7;White;Female;5200 to 10400;Single;6;Scottish;Degree;Scotland;Yes;Packets
+54;10;20;7;White;Female;10400 to 15600;Divorced;6;Scottish;No Qualification;Scotland;Yes;Packets
+78;NA;NA;7;White;Female;15600 to 20800;Widowed;6;Scottish;No Qualification;Scotland;No;
+50;25;25;7;White;Male;10400 to 15600;Married;6;Scottish;No Qualification;Scotland;Yes;Hand-Rolled
+42;NA;NA;7;White;Female;20800 to 28600;Married;6;Scottish;Degree;Scotland;No;
+32;10;10;7;White;Female;10400 to 15600;Single;6;Scottish;A Levels;Scotland;Yes;Packets
+75;NA;NA;7;White;Male;5200 to 10400;Single;6;Scottish;No Qualification;Scotland;No;
+25;15;15;7;White;Female;Under 2600;Single;6;Scottish;GCSE/O Level;Scotland;Yes;Packets
+50;NA;NA;7;White;Male;20800 to 28600;Separated;6;Scottish;Higher/Sub Degree;Scotland;No;
+24;15;15;7;White;Male;28600 to 36400;Single;6;Scottish;Higher/Sub Degree;Scotland;Yes;Packets
+35;NA;NA;7;White;Male;28600 to 36400;Single;1;British;Higher/Sub Degree;Scotland;No;
+52;NA;NA;7;White;Female;10400 to 15600;Married;6;Scottish;No Qualification;Scotland;No;
+42;NA;NA;7;White;Female;10400 to 15600;Married;1;British;Degree;Scotland;No;
+44;NA;NA;7;White;Male;15600 to 20800;Separated;6;Scottish;GCSE/O Level;Scotland;No;
+67;12;20;7;White;Male;5200 to 10400;Widowed;6;Scottish;No Qualification;Scotland;Yes;Hand-Rolled
+69;NA;NA;7;White;Female;2600 to 5200;Widowed;6;Scottish;No Qualification;Scotland;No;
+91;NA;NA;7;White;Female;2600 to 5200;Single;6;Scottish;No Qualification;Scotland;No;
+61;NA;NA;7;White;Male;2600 to 5200;Divorced;6;Scottish;No Qualification;Scotland;No;
+50;NA;NA;7;White;Female;20800 to 28600;Single;1;British;Degree;Scotland;No;
+37;NA;NA;7;White;Male;20800 to 28600;Single;6;Scottish;Higher/Sub Degree;Scotland;No;
+35;15;15;7;White;Female;15600 to 20800;Single;6;Scottish;Higher/Sub Degree;Scotland;Yes;Packets
+24;15;20;7;White;Male;10400 to 15600;Single;1;British;Higher/Sub Degree;Scotland;Yes;Packets
+39;NA;NA;7;White;Female;5200 to 10400;Single;6;Scottish;No Qualification;Scotland;No;
+79;NA;NA;7;White;Female;2600 to 5200;Divorced;6;Scottish;No Qualification;Scotland;No;
+40;NA;NA;7;White;Male;Above 36400;Married;6;Scottish;Degree;Scotland;No;
+60;NA;NA;7;White;Male;Above 36400;Married;1;British;Degree;Scotland;No;
+42;NA;NA;7;White;Male;20800 to 28600;Married;6;Scottish;No Qualification;Scotland;No;
+64;NA;NA;7;White;Male;5200 to 10400;Widowed;6;Scottish;Other/Sub Degree;Scotland;No;
+55;10;2;7;White;Female;15600 to 20800;Married;6;Scottish;GCSE/O Level;Scotland;Yes;Packets
+54;NA;NA;7;White;Male;10400 to 15600;Married;6;Scottish;Other/Sub Degree;Scotland;No;
+61;NA;NA;7;White;Female;10400 to 15600;Married;1;British;Higher/Sub Degree;Scotland;No;
+62;NA;NA;7;White;Female;5200 to 10400;Divorced;6;Scottish;Higher/Sub Degree;Scotland;No;
+59;NA;NA;7;White;Female;Unknown;Divorced;6;Scottish;Degree;Scotland;No;
+79;NA;NA;7;White;Female;Refused;Widowed;6;Scottish;GCSE/CSE;Scotland;No;
+37;NA;NA;7;White;Female;10400 to 15600;Married;1;British;Degree;Scotland;No;
+55;8;12;7;White;Female;2600 to 5200;Married;6;Scottish;Other/Sub Degree;Scotland;Yes;Packets
+88;NA;NA;7;White;Female;28600 to 36400;Widowed;6;Scottish;Higher/Sub Degree;Scotland;No;
+39;NA;NA;7;White;Female;15600 to 20800;Divorced;1;British;Degree;Scotland;No;
+34;NA;NA;7;White;Male;Above 36400;Single;1;British;Degree;Scotland;No;
+42;NA;NA;7;White;Male;28600 to 36400;Married;6;Scottish;Degree;Scotland;No;
+45;NA;NA;7;White;Female;2600 to 5200;Married;1;British;Degree;Scotland;No;
+59;NA;NA;7;White;Male;Above 36400;Married;6;Scottish;ONC/BTEC;Scotland;No;
+58;30;30;7;White;Male;10400 to 15600;Married;1;British;GCSE/O Level;Scotland;Yes;Packets
+74;NA;NA;7;White;Male;5200 to 10400;Widowed;1;British;Higher/Sub Degree;Scotland;No;
+45;NA;NA;7;White;Male;20800 to 28600;Married;6;Scottish;GCSE/O Level;Scotland;No;
+64;NA;NA;7;White;Male;10400 to 15600;Married;6;Scottish;No Qualification;Scotland;No;
+53;NA;NA;7;White;Male;15600 to 20800;Single;6;Scottish;Higher/Sub Degree;Scotland;No;
+40;NA;NA;7;White;Male;15600 to 20800;Married;6;Scottish;GCSE/O Level;Scotland;No;
+30;10;10;7;White;Male;15600 to 20800;Married;6;Scottish;ONC/BTEC;Scotland;Yes;Hand-Rolled
+70;NA;NA;7;White;Male;10400 to 15600;Married;6;Scottish;No Qualification;Scotland;No;
+28;NA;NA;7;White;Female;5200 to 10400;Separated;6;Scottish;ONC/BTEC;Scotland;No;
+78;NA;NA;7;White;Female;2600 to 5200;Widowed;6;Scottish;No Qualification;Scotland;No;
+41;24;24;7;White;Male;20800 to 28600;Married;6;Scottish;A Levels;Scotland;Yes;Packets
+69;NA;NA;7;White;Female;5200 to 10400;Divorced;1;British;No Qualification;Scotland;No;
+54;NA;NA;7;White;Male;20800 to 28600;Married;6;Scottish;GCSE/O Level;Scotland;No;
+59;20;20;7;White;Male;15600 to 20800;Married;6;Scottish;ONC/BTEC;Scotland;Yes;Hand-Rolled
+23;15;15;7;White;Female;5200 to 10400;Single;6;Scottish;GCSE/O Level;Scotland;Yes;Packets
+40;15;30;7;White;Male;15600 to 20800;Married;6;Scottish;No Qualification;Scotland;Yes;Packets
+17;6;15;7;White;Male;5200 to 10400;Single;6;Scottish;GCSE/O Level;Scotland;Yes;Packets
+54;NA;NA;7;White;Male;5200 to 10400;Single;1;British;No Qualification;Scotland;No;
+49;NA;NA;7;White;Female;5200 to 10400;Divorced;6;Scottish;No Qualification;Scotland;No;
+55;45;45;7;White;Male;5200 to 10400;Married;6;Scottish;Higher/Sub Degree;Scotland;Yes;Hand-Rolled
+51;20;20;7;White;Male;5200 to 10400;Widowed;6;Scottish;ONC/BTEC;Scotland;Yes;Packets
+73;NA;NA;7;White;Female;Under 2600;Married;6;Scottish;No Qualification;Scotland;No;
+41;NA;NA;7;White;Female;2600 to 5200;Married;6;Scottish;No Qualification;Scotland;No;
+70;NA;NA;7;White;Female;20800 to 28600;Married;1;British;GCSE/O Level;Scotland;No;
+44;10;15;7;White;Female;10400 to 15600;Separated;6;Scottish;No Qualification;Scotland;Yes;Packets
+51;NA;NA;7;White;Male;Under 2600;Divorced;6;Scottish;No Qualification;Scotland;No;
+68;0;1;7;White;Male;28600 to 36400;Married;3;Irish;Degree;Scotland;Yes;Packets
+75;NA;NA;7;White;Female;2600 to 5200;Separated;6;Scottish;No Qualification;Scotland;No;
+60;15;20;7;White;Male;5200 to 10400;Married;6;Scottish;No Qualification;Scotland;Yes;Packets
+56;NA;NA;7;White;Male;2600 to 5200;Married;6;Scottish;No Qualification;Scotland;No;
+64;NA;NA;7;White;Male;5200 to 10400;Widowed;6;Scottish;No Qualification;Scotland;No;
+27;NA;NA;7;White;Female;10400 to 15600;Single;6;Scottish;Degree;Scotland;No;
+73;12;20;7;White;Female;5200 to 10400;Widowed;6;Scottish;No Qualification;Scotland;Yes;Packets
+34;2;10;7;White;Male;15600 to 20800;Single;6;Scottish;GCSE/O Level;Scotland;Yes;Packets
+47;10;15;7;White;Male;10400 to 15600;Married;1;British;GCSE/O Level;Scotland;Yes;Hand-Rolled
+32;NA;NA;7;White;Male;10400 to 15600;Single;6;Scottish;A Levels;Scotland;No;
+63;NA;NA;7;White;Male;15600 to 20800;Married;1;British;No Qualification;Scotland;No;
+23;NA;NA;7;White;Female;5200 to 10400;Single;6;Scottish;Degree;Scotland;No;
+63;NA;NA;7;White;Female;5200 to 10400;Married;6;Scottish;No Qualification;Scotland;No;
+46;NA;NA;7;White;Female;15600 to 20800;Divorced;6;Scottish;A Levels;Scotland;No;
+48;NA;NA;7;White;Male;10400 to 15600;Single;6;Scottish;A Levels;Scotland;No;
+68;NA;NA;7;White;Male;5200 to 10400;Married;6;Scottish;No Qualification;Scotland;No;
+52;20;20;7;White;Male;15600 to 20800;Separated;6;Scottish;No Qualification;Scotland;Yes;Packets
+29;6;10;7;White;Female;15600 to 20800;Separated;6;Scottish;No Qualification;Scotland;Yes;Packets
+16;NA;NA;7;White;Female;Refused;Single;6;Scottish;No Qualification;Scotland;No;
+41;NA;NA;7;White;Male;15600 to 20800;Divorced;6;Scottish;A Levels;Scotland;No;
+48;20;20;7;White;Female;5200 to 10400;Widowed;6;Scottish;No Qualification;Scotland;Yes;Packets
+24;NA;NA;7;White;Male;5200 to 10400;Single;6;Scottish;A Levels;Scotland;No;
+72;40;40;7;White;Male;5200 to 10400;Widowed;6;Scottish;No Qualification;Scotland;Yes;Hand-Rolled
+45;NA;NA;7;White;Male;15600 to 20800;Married;1;British;GCSE/O Level;Scotland;No;
+28;NA;NA;7;White;Female;28600 to 36400;Married;1;British;Degree;Scotland;No;
+20;NA;NA;7;White;Male;5200 to 10400;Single;6;Scottish;A Levels;Scotland;No;
+69;NA;NA;7;White;Female;5200 to 10400;Widowed;6;Scottish;No Qualification;Scotland;No;
+70;NA;NA;7;White;Female;Under 2600;Married;6;Scottish;No Qualification;Scotland;No;
+50;20;25;7;White;Male;15600 to 20800;Married;6;Scottish;GCSE/CSE;Scotland;Yes;Both/Mainly Packets
+63;20;20;7;White;Male;5200 to 10400;Married;6;Scottish;A Levels;Scotland;Yes;Packets
+44;NA;NA;7;White;Male;15600 to 20800;Married;1;British;GCSE/O Level;Scotland;No;
+83;NA;NA;7;White;Female;5200 to 10400;Widowed;6;Scottish;No Qualification;Scotland;No;
+17;15;20;7;White;Female;5200 to 10400;Single;6;Scottish;GCSE/CSE;Scotland;Yes;Packets
+61;NA;NA;7;White;Female;5200 to 10400;Married;6;Scottish;Other/Sub Degree;Scotland;No;
+47;20;15;7;White;Female;5200 to 10400;Married;6;Scottish;GCSE/O Level;Scotland;Yes;Packets
+57;NA;NA;7;White;Male;28600 to 36400;Married;6;Scottish;Degree;Scotland;No;
+44;10;15;7;White;Female;5200 to 10400;Married;6;Scottish;GCSE/O Level;Scotland;Yes;Packets
+52;20;25;7;White;Male;15600 to 20800;Single;3;Irish;GCSE/CSE;Scotland;Yes;Both/Mainly Packets
+82;NA;NA;7;White;Male;5200 to 10400;Married;6;Scottish;No Qualification;Scotland;No;
+63;NA;NA;7;White;Male;28600 to 36400;Married;6;Scottish;A Levels;Scotland;No;
+72;NA;NA;7;White;Female;2600 to 5200;Separated;6;Scottish;No Qualification;Scotland;No;
+39;NA;NA;7;White;Male;Above 36400;Married;6;Scottish;Higher/Sub Degree;Scotland;No;
+16;NA;NA;7;White;Male;Refused;Single;6;Scottish;No Qualification;Scotland;No;
+35;NA;NA;7;White;Female;15600 to 20800;Divorced;6;Scottish;Degree;Scotland;No;
+39;NA;NA;7;White;Female;10400 to 15600;Married;6;Scottish;Degree;Scotland;No;
+56;10;10;7;White;Male;Refused;Separated;6;Scottish;No Qualification;Scotland;Yes;Hand-Rolled
+31;30;60;7;White;Female;5200 to 10400;Single;6;Scottish;Other/Sub Degree;Scotland;Yes;Packets
+61;NA;NA;7;White;Male;Under 2600;Married;6;Scottish;No Qualification;Scotland;No;
+23;0;5;7;White;Male;Under 2600;Separated;6;Scottish;GCSE/O Level;Scotland;Yes;Packets
+34;18;35;7;White;Male;10400 to 15600;Single;6;Scottish;No Qualification;Scotland;Yes;Both/Mainly Hand-Rolled
+24;NA;NA;7;White;Male;15600 to 20800;Single;6;Scottish;Degree;Scotland;No;
+82;NA;NA;7;White;Male;5200 to 10400;Single;6;Scottish;Other/Sub Degree;Scotland;No;
+27;NA;NA;7;White;Male;15600 to 20800;Married;6;Scottish;A Levels;Scotland;No;
+62;18;18;7;White;Female;2600 to 5200;Divorced;6;Scottish;GCSE/CSE;Scotland;Yes;Packets
+39;NA;NA;7;White;Male;20800 to 28600;Married;1;British;Higher/Sub Degree;Scotland;No;
+44;NA;NA;7;White;Male;2600 to 5200;Separated;6;Scottish;No Qualification;Scotland;No;
+43;20;25;7;White;Female;10400 to 15600;Single;1;British;No Qualification;Scotland;Yes;Packets
+31;15;20;7;White;Male;2600 to 5200;Single;6;Scottish;GCSE/O Level;Scotland;Yes;Both/Mainly Packets
+77;10;20;7;White;Male;5200 to 10400;Divorced;2;English;Other/Sub Degree;Scotland;Yes;Packets
+20;NA;NA;7;White;Female;5200 to 10400;Single;2;English;GCSE/O Level;Scotland;No;
+81;NA;NA;7;White;Female;5200 to 10400;Widowed;6;Scottish;Other/Sub Degree;Scotland;No;
+31;10;20;7;White;Female;15600 to 20800;Single;6;Scottish;GCSE/O Level;Scotland;Yes;Packets
+78;NA;NA;7;White;Female;2600 to 5200;Married;6;Scottish;Other/Sub Degree;Scotland;No;
+35;NA;NA;7;White;Male;10400 to 15600;Married;6;Scottish;A Levels;Scotland;No;
+67;NA;NA;7;White;Female;Under 2600;Widowed;6;Scottish;No Qualification;Scotland;No;
+65;NA;NA;7;White;Male;10400 to 15600;Divorced;6;Scottish;Other/Sub Degree;Scotland;No;
+61;NA;NA;7;White;Male;10400 to 15600;Married;6;Scottish;Higher/Sub Degree;Scotland;No;
+24;15;15;7;White;Male;Under 2600;Single;6;Scottish;No Qualification;Scotland;Yes;Hand-Rolled
+53;NA;NA;7;White;Male;20800 to 28600;Single;6;Scottish;No Qualification;Scotland;No;
+63;NA;NA;7;White;Female;Refused;Married;1;British;No Qualification;Scotland;No;
+35;12;3;7;White;Male;10400 to 15600;Married;6;Scottish;No Qualification;Scotland;Yes;Packets
+78;NA;NA;7;White;Male;Refused;Widowed;6;Scottish;No Qualification;Scotland;No;
+31;NA;NA;7;White;Female;5200 to 10400;Single;6;Scottish;Other/Sub Degree;Scotland;No;
+22;NA;NA;7;White;Male;2600 to 5200;Single;6;Scottish;No Qualification;Scotland;No;
+49;20;20;7;White;Female;2600 to 5200;Divorced;2;English;Other/Sub Degree;Scotland;Yes;Hand-Rolled
+45;NA;NA;7;White;Male;5200 to 10400;Married;6;Scottish;Other/Sub Degree;Scotland;No;
+51;20;20;7;White;Female;2600 to 5200;Married;2;English;No Qualification;Scotland;Yes;Packets
+31;NA;NA;7;White;Male;10400 to 15600;Married;6;Scottish;Degree;Scotland;No;
