@@ -32,19 +32,19 @@
             && !x.GrossIncome.Contains("Above")
             && !x.GrossIncome.Contains("Refused"));
 
-            foreach(var faszocska in f6)
+            foreach(var resident in f6)
             {
-                Console.WriteLine(faszocska.ToString());
+                Console.WriteLine(resident.ToString());
             }
             if(f6.Any())
             {
-                var finglingi = f6.Select(x =>
+                var maxJovedelem = f6.Select(x =>
                 {
                     var income = x.GrossIncome.Split(" to ");
                     int max = int.Parse(income[1]);
                     return max;
                 }).Max();
-                Console.WriteLine($"\nA leszűrt lakosok maximális jövedelmének maximuma: {finglingi} angol font");
+                Console.WriteLine($"\nA leszűrt lakosok maximális jövedelmének maximuma: {maxJovedelem} angol font");
             }
             Console.WriteLine("7. feladat");
 
